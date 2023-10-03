@@ -1,0 +1,13 @@
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Application\obj\Debug\netcoreapp3.1\Hexagon.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Application\obj\Debug\netcoreapp3.1\Hexagon.Application.AssemblyInfoInputs.cache
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Application\obj\Debug\netcoreapp3.1\Hexagon.Application.AssemblyInfo.cs
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Application\obj\Debug\netcoreapp3.1\Hexagon.Application.csproj.CoreCompileInputs.cache
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Application\bin\Debug\netcoreapp3.1\Hexagon.Application.deps.json
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Application\bin\Debug\netcoreapp3.1\Hexagon.Application.dll
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Application\bin\Debug\netcoreapp3.1\Hexagon.Application.pdb
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Application\bin\Debug\netcoreapp3.1\Hexagon.Domain.dll
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Application\bin\Debug\netcoreapp3.1\Hexagon.Domain.pdb
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Application\obj\Debug\netcoreapp3.1\Hexagon.Application.csproj.AssemblyReference.cache
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Application\obj\Debug\netcoreapp3.1\Hexagon.Application.csproj.CopyComplete
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Application\obj\Debug\netcoreapp3.1\Hexagon.Application.dll
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Application\obj\Debug\netcoreapp3.1\Hexagon.Application.pdb

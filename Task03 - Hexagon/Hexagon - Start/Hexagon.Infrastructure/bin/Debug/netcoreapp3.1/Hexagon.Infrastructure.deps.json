@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Hexagon.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Hexagon.Application": "1.0.0",
+          "Hexagon.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Hexagon.Infrastructure.dll": {}
+        }
+      },
+      "Hexagon.Application/1.0.0": {
+        "dependencies": {
+          "Hexagon.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Hexagon.Application.dll": {}
+        }
+      },
+      "Hexagon.Domain/1.0.0": {
+        "runtime": {
+          "Hexagon.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hexagon.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hexagon.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hexagon.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

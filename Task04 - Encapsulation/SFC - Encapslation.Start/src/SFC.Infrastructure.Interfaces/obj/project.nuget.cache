@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "CAYmjPJkGTr1tKgBsaLm494lpU8cXmIH8F+57XKM4dLcoHaz2qCdMkO3/FaBPRv3Ullnzm+A1MPoF8sg4BenWQ==",
+  "success": false,
+  "projectFilePath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task04 - Enkapsulacja i kontrakt\\SFC - Encapslation.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task04 - Enkapsulacja i kontrakt\\SFC - Encapslation.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task04 - Enkapsulacja i kontrakt\\SFC - Encapslation.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

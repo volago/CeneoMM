@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Hexagon.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Hexagon.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hexagon.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Hexagon.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Hexagon.Domain/Hexagon.Domain.csproj",
+      "msbuildProject": "../Hexagon.Domain/Hexagon.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Hexagon.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\szymek\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Domain\\Hexagon.Domain.csproj": {
+              "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Domain\\Hexagon.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

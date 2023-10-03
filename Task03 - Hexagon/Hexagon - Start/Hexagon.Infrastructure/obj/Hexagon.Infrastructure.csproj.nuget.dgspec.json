@@ -4,6 +4,148 @@
     "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Infrastructure\\Hexagon.Infrastructure.csproj": {}
   },
   "projects": {
+    "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Application\\Hexagon.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Application\\Hexagon.Application.csproj",
+        "projectName": "Hexagon.Application",
+        "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Application\\Hexagon.Application.csproj",
+        "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
+        "outputPath": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Domain\\Hexagon.Domain.csproj": {
+                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Domain\\Hexagon.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Domain\\Hexagon.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Domain\\Hexagon.Domain.csproj",
+        "projectName": "Hexagon.Domain",
+        "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Domain\\Hexagon.Domain.csproj",
+        "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
+        "outputPath": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Infrastructure\\Hexagon.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -27,7 +169,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Application\\Hexagon.Application.csproj": {
+                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Application\\Hexagon.Application.csproj"
+              },
+              "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Domain\\Hexagon.Domain.csproj": {
+                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Domain\\Hexagon.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

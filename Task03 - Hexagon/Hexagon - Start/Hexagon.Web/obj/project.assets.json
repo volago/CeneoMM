@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Hexagon.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Hexagon.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Hexagon.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hexagon.Application.dll": {}
+        }
+      },
+      "Hexagon.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Hexagon.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Hexagon.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Hexagon.Application/1.0.0": {
+      "type": "project",
+      "path": "../Hexagon.Application/Hexagon.Application.csproj",
+      "msbuildProject": "../Hexagon.Application/Hexagon.Application.csproj"
+    },
+    "Hexagon.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Hexagon.Domain/Hexagon.Domain.csproj",
+      "msbuildProject": "../Hexagon.Domain/Hexagon.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Hexagon.Application >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\szymek\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Application\\Hexagon.Application.csproj": {
+              "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Application\\Hexagon.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

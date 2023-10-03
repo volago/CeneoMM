@@ -1,0 +1,15 @@
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\obj\Debug\netcoreapp3.1\Hexagon.Infrastructure.csproj.AssemblyReference.cache
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\obj\Debug\netcoreapp3.1\Hexagon.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\obj\Debug\netcoreapp3.1\Hexagon.Infrastructure.AssemblyInfoInputs.cache
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\obj\Debug\netcoreapp3.1\Hexagon.Infrastructure.AssemblyInfo.cs
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\obj\Debug\netcoreapp3.1\Hexagon.Infrastructure.csproj.CoreCompileInputs.cache
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\bin\Debug\netcoreapp3.1\Hexagon.Infrastructure.deps.json
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\bin\Debug\netcoreapp3.1\Hexagon.Infrastructure.dll
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\bin\Debug\netcoreapp3.1\Hexagon.Infrastructure.pdb
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\bin\Debug\netcoreapp3.1\Hexagon.Application.dll
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\bin\Debug\netcoreapp3.1\Hexagon.Domain.dll
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\bin\Debug\netcoreapp3.1\Hexagon.Application.pdb
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\bin\Debug\netcoreapp3.1\Hexagon.Domain.pdb
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\obj\Debug\netcoreapp3.1\Hexagon.Infrastructure.csproj.CopyComplete
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\obj\Debug\netcoreapp3.1\Hexagon.Infrastructure.dll
+C:\My\Trainings\CeneoMM\Task03 - Hexagon\Hexagon - Start\Hexagon.Infrastructure\obj\Debug\netcoreapp3.1\Hexagon.Infrastructure.pdb
