@@ -1,0 +1,59 @@
+2023-09-22 14:42:04.449 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-22 14:42:04.464 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 307 in 2.2265 ms
+2023-09-22 14:42:04.471 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-22 14:42:04.473 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-22 14:42:04.474 +02:00 [INF] Hosting environment: Production
+2023-09-22 14:42:04.474 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-22 21:03:25.209 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-22 21:03:25.223 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 307 in 3.8018 ms
+2023-09-22 21:03:25.232 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-22 21:03:25.235 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-22 21:03:25.235 +02:00 [INF] Hosting environment: Production
+2023-09-22 21:03:25.235 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-22 21:04:28.137 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-22 21:04:28.157 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-22 21:04:28.159 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 307 in 2.0151 ms
+2023-09-22 21:04:28.161 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-22 21:04:28.161 +02:00 [INF] Hosting environment: Production
+2023-09-22 21:04:28.161 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-22 21:05:11.706 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-22 21:05:11.725 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-22 21:05:11.728 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-22 21:05:11.729 +02:00 [INF] Hosting environment: Production
+2023-09-22 21:05:11.729 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-22 21:08:45.192 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-22 21:08:45.204 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 307 in 2.0052 ms
+2023-09-22 21:08:45.214 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-22 21:08:45.222 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-22 21:08:45.222 +02:00 [INF] Hosting environment: Production
+2023-09-22 21:08:45.222 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-22 21:20:08.137 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-22 21:20:08.155 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-22 21:20:08.158 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-22 21:20:08.158 +02:00 [INF] Hosting environment: Production
+2023-09-22 21:20:08.158 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-22 21:20:08.385 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 242.6282 ms
+2023-09-22 21:20:34.829 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-22 21:20:34.847 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-22 21:20:34.850 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-22 21:20:34.850 +02:00 [INF] Hosting environment: Production
+2023-09-22 21:20:34.850 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-22 21:20:35.063 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 225.3795 ms
+2023-09-22 21:31:30.704 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-22 21:31:30.722 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-22 21:31:30.724 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-22 21:31:30.724 +02:00 [INF] Hosting environment: Production
+2023-09-22 21:31:30.724 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-22 21:31:30.922 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 217.4141 ms
+2023-09-22 21:33:53.158 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-22 21:33:53.176 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-22 21:33:53.179 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-22 21:33:53.179 +02:00 [INF] Hosting environment: Production
+2023-09-22 21:33:53.179 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-22 21:33:53.379 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 213.4804 ms
+2023-09-22 22:27:07.718 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-22 22:27:07.738 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-22 22:27:07.740 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-22 22:27:07.740 +02:00 [INF] Hosting environment: Production
+2023-09-22 22:27:07.740 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-22 22:27:07.951 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 222.5386 ms

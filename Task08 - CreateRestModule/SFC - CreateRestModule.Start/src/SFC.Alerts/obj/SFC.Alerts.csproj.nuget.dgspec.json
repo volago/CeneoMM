@@ -1,0 +1,370 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj": {}
+  },
+  "projects": {
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj",
+        "projectName": "SFC.Alerts",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj",
+        "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Alerts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj"
+              },
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            },
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj",
+        "projectName": "SFC.Infrastructure.Interfaces",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj",
+        "projectName": "SFC.Infrastructure",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj"
+              },
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "FluentMigrator.Runner": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "FluentMigrator.Runner.SqlServer": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj",
+        "projectName": "SFC.Notifications",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj",
+        "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Notifications\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj"
+              },
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.151, )"
+            },
+            "FluentMigrator": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
+        "projectName": "SFC.SharedKernel",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

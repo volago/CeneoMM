@@ -1,0 +1,598 @@
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\SFC.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\SFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\SFC.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\SFC.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\SFC.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\SFC.MvcApplicationPartsAssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\SFC.MvcApplicationPartsAssemblyInfo.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\refint\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\SFC.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\appsettings.Development.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.exe
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\appsettings.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.runtimeconfig.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Autofac.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Automatonymous.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Dapper.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Core.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Db2.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Firebird.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Hana.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.MySql.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Redshift.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SQLite.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\System.Data.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentValidation.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\GreenPipes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Serilog.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Serilog.Expressions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\System.Text.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.UserApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.AdminApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.SensorApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.UserApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.SFC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.build.SFC.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SFC.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SFC.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\staticwebassets.build.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\staticwebassets.development.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\scopedcss\bundle\SFC.styles.css
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\SFC.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\SFC.genruntimeconfig.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC\obj\Debug\net6.0\ref\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\SFC.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\SFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\SFC.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\SFC.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\SFC.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\SFC.MvcApplicationPartsAssemblyInfo.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\appsettings.Development.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.exe
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\appsettings.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.runtimeconfig.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Autofac.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Automatonymous.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Dapper.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Core.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Db2.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Firebird.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Hana.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.MySql.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Redshift.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SQLite.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\System.Data.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentValidation.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\GreenPipes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Serilog.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Serilog.Expressions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\System.Text.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.UserApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.AdminApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.SensorApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.UserApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.SFC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.build.SFC.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SFC.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SFC.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\staticwebassets.build.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\staticwebassets.development.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\scopedcss\bundle\SFC.styles.css
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\SFC.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\refint\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\SFC.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\SFC.genruntimeconfig.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\ref\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC\obj\Debug\net6.0\SFC.MvcApplicationPartsAssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\SFC.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\SFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\SFC.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\SFC.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\SFC.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\SFC.MvcApplicationPartsAssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\SFC.MvcApplicationPartsAssemblyInfo.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\refint\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\SFC.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\appsettings.Development.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.exe
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\appsettings.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.runtimeconfig.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Autofac.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Automatonymous.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Dapper.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Core.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Db2.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Firebird.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Hana.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.MySql.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Redshift.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SQLite.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\System.Data.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentValidation.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\GreenPipes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Serilog.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Serilog.Expressions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\System.Text.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.SensorApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.SFC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.build.SFC.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SFC.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SFC.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\staticwebassets.build.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\staticwebassets.development.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\scopedcss\bundle\SFC.styles.css
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\SFC.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\SFC.genruntimeconfig.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\obj\Debug\net6.0\ref\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\appsettings.Development.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.exe
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\appsettings.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.runtimeconfig.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Autofac.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Autofac.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Automatonymous.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Dapper.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Extensions.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Core.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Db2.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Firebird.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Hana.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.MySql.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.Redshift.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SQLite.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentMigrator.Runner.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\System.Data.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentValidation.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\GreenPipes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Serilog.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Serilog.Expressions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\System.Text.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.SensorApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\SFC.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\SFC.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\SFC.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\SFC.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\SFC.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\SFC.MvcApplicationPartsAssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\SFC.MvcApplicationPartsAssemblyInfo.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.SFC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.build.SFC.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.SFC.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.SFC.props
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\staticwebassets.build.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\staticwebassets.development.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\scopedcss\bundle\SFC.styles.css
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\SFC.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\refint\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\SFC.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\SFC.genruntimeconfig.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\obj\Debug\net6.0\ref\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.UserApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC\bin\Debug\net6.0\SFC.UserApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.UserApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC\bin\Debug\net6.0\SFC.UserApi.pdb
