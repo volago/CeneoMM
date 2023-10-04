@@ -1,0 +1,75 @@
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.deps.json
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.SharedKernel.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.SharedKernel.pdb
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.AssemblyReference.cache
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.AssemblyInfoInputs.cache
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.AssemblyInfo.cs
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.CoreCompileInputs.cache
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.CopyComplete
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\refint\SFC.Infrastructure.Interfaces.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\ref\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\refint\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\ref\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\refint\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\ref\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\refint\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\ref\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.deps.json
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.AssemblyReference.cache
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.AssemblyInfoInputs.cache
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.AssemblyInfo.cs
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.CoreCompileInputs.cache
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.csproj.CopyComplete
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\refint\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure.Interfaces\obj\Debug\net6.0\ref\SFC.Infrastructure.Interfaces.dll

@@ -1,0 +1,16 @@
+2023-09-29 22:37:30.288 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 8.3133 ms
+2023-09-29 22:37:30.302 +02:00 [INF] HTTP POST /api/v1.0/sensors/00efd78e-77b4-4f3b-a145-b3ef45fc18c8/measurements responded 404 in 0.0540 ms
+2023-09-29 22:37:41.419 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 22:37:41.437 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 22:37:41.441 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 22:37:41.441 +02:00 [INF] Hosting environment: Production
+2023-09-29 22:37:41.441 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 22:37:41.527 +02:00 [INF] HTTP POST /api/v1.0/user/ responded 200 in 107.8750 ms
+2023-09-29 22:37:41.557 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 15.6477 ms
+2023-09-29 22:38:06.061 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 22:38:06.085 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 22:38:06.088 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 22:38:06.090 +02:00 [INF] Hosting environment: Production
+2023-09-29 22:38:06.092 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 22:38:17.709 +02:00 [INF] HTTP POST /api/v1.0/user/ responded 200 in 11637.0010 ms
+2023-09-29 22:38:25.084 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 6985.8577 ms
