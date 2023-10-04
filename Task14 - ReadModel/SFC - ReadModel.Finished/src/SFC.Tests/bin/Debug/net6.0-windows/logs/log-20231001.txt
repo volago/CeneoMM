@@ -1,0 +1,510 @@
+2023-10-01 15:58:24.146 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:58:24.167 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:58:24.170 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:58:24.170 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:58:24.171 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:58:24.320 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 160.8086 ms
+2023-10-01 15:58:24.346 +02:00 [INF] HTTP POST /api/v1.0/accounts/31c2d5aed77944318794355836bb8499/confirmation responded 200 in 14.5128 ms
+2023-10-01 15:58:24.366 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 14.3017 ms
+2023-10-01 15:58:36.061 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:58:36.082 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:58:36.084 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:58:36.085 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:58:36.085 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:58:36.256 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 182.5837 ms
+2023-10-01 16:02:04.230 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 16:02:04.259 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 16:02:04.262 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 16:02:04.262 +02:00 [INF] Hosting environment: Production
+2023-10-01 16:02:04.262 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 16:02:04.496 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 249.8130 ms
+2023-10-01 19:35:28.272 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:35:28.295 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:35:28.298 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:35:28.299 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:35:28.299 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:35:28.515 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 229.2699 ms
+2023-10-01 19:39:37.013 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:39:37.034 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:39:37.037 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:39:37.037 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:39:37.037 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:39:37.199 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 174.4415 ms
+2023-10-01 19:40:56.572 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:40:56.593 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:40:56.596 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:40:56.596 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:40:56.596 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:40:56.777 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 194.0405 ms
+2023-10-01 19:41:50.005 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:41:50.028 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:41:50.031 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:41:50.031 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:41:50.031 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:41:50.205 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 187.4730 ms
+2023-10-01 19:41:51.082 +02:00 [INF] HTTP POST /api/v1.0/accounts/6ea1bc306dfa43a6a578d4759e2d118b/confirmation responded 200 in 21.7803 ms
+2023-10-01 19:41:52.459 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 42.3887 ms
+2023-10-01 19:44:56.458 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:44:56.479 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:44:56.481 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:44:56.482 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:44:56.482 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:44:56.657 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 189.9988 ms
+2023-10-01 19:44:57.184 +02:00 [INF] HTTP POST /api/v1.0/accounts/5cdc6a64b64a49b298e65da0dac423b5/confirmation responded 200 in 19.8447 ms
+2023-10-01 19:44:57.647 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 28.7846 ms
+2023-10-01 19:45:31.399 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:45:31.421 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:45:31.423 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:45:31.424 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:45:31.424 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:45:31.606 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 193.9390 ms
+2023-10-01 19:45:32.218 +02:00 [INF] HTTP POST /api/v1.0/accounts/34a66fdde039453dbe2e2f419c193b1c/confirmation responded 200 in 20.9563 ms
+2023-10-01 19:45:32.490 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 43.7068 ms
+2023-10-01 19:46:19.182 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:46:19.203 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:46:19.206 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:46:19.207 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:46:19.207 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:46:19.390 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 190.5989 ms
+2023-10-01 19:46:19.681 +02:00 [INF] HTTP POST /api/v1.0/accounts/546bb34beb1c432cbd7f3d73a0767898/confirmation responded 200 in 27.2531 ms
+2023-10-01 19:46:19.885 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 18.3714 ms
+2023-10-01 19:46:48.377 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:46:48.402 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:46:48.405 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:46:48.405 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:46:48.406 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:46:48.613 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 217.3626 ms
+2023-10-01 19:46:48.664 +02:00 [INF] HTTP POST /api/v1.0/accounts/d16f8c81d6c54240965bd1f3a9846a9c/confirmation responded 200 in 23.0829 ms
+2023-10-01 19:46:48.691 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 16.3114 ms
+2023-10-01 19:47:24.778 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:47:24.805 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:47:24.808 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:47:24.808 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:47:24.808 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:47:25.015 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 217.1708 ms
+2023-10-01 19:47:25.064 +02:00 [INF] HTTP POST /api/v1.0/accounts/0f5918ef51b74be68628962ce3fba8a8/confirmation responded 200 in 20.2512 ms
+2023-10-01 19:47:25.094 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 17.2828 ms
+2023-10-01 19:47:44.393 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:47:44.412 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:47:44.414 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:47:44.415 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:47:44.415 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:47:44.591 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 183.9710 ms
+2023-10-01 19:47:44.636 +02:00 [INF] HTTP POST /api/v1.0/accounts/4da1427cfdb1463c8cd3457f086b5cbc/confirmation responded 200 in 19.7253 ms
+2023-10-01 19:47:44.665 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 19.3422 ms
+2023-10-01 19:49:53.269 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:49:53.294 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:49:53.296 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:49:53.297 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:49:53.297 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:49:53.498 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 215.9773 ms
+2023-10-01 19:49:53.549 +02:00 [INF] HTTP POST /api/v1.0/accounts/35b24ccd5f414602883e03efed5e7043/confirmation responded 200 in 21.0068 ms
+2023-10-01 19:49:53.577 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 16.5448 ms
+2023-10-01 19:50:22.167 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:50:22.189 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:50:22.192 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:50:22.193 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:50:22.193 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:50:22.383 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 202.4818 ms
+2023-10-01 19:50:22.432 +02:00 [INF] HTTP POST /api/v1.0/accounts/3030763ce3ad4bf296e7595a6e204dbb/confirmation responded 200 in 19.0780 ms
+2023-10-01 19:50:22.457 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 16.1393 ms
+2023-10-01 19:50:43.061 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:50:43.087 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:50:43.091 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:50:43.092 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:50:43.092 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:50:43.311 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 230.7906 ms
+2023-10-01 19:50:43.367 +02:00 [INF] HTTP POST /api/v1.0/accounts/264e7f8d6e8948e89fa38579e2ec6f20/confirmation responded 200 in 20.7757 ms
+2023-10-01 19:50:43.398 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 19.2873 ms
+2023-10-01 19:50:43.976 +02:00 [INF] HTTP POST /api/v1.0/sensors/0876223e-572f-41f0-9ee1-c82348809e76/measurements responded 200 in 49.9920 ms
+2023-10-01 19:50:46.059 +02:00 [INF] HTTP GET /api/v1.0/alertNotificationsWithUserData responded 200 in 2069.5744 ms
+2023-10-01 19:51:14.406 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:51:14.425 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:51:14.427 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:51:14.427 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:51:14.427 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:51:14.593 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 181.3775 ms
+2023-10-01 19:51:14.645 +02:00 [INF] HTTP POST /api/v1.0/sensors/0a1cb7fb-c1f3-4da0-849a-cac236463580/measurements responded 200 in 36.9632 ms
+2023-10-01 19:51:23.485 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:51:23.503 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:51:23.506 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:51:23.506 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:51:23.506 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:51:23.604 +02:00 [INF] HTTP POST /api/v1.0/user/ responded 200 in 110.0455 ms
+2023-10-01 19:51:23.638 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 21.2982 ms
+2023-10-01 19:51:27.500 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:51:27.518 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:51:27.520 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:51:27.520 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:51:27.520 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:51:27.665 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 158.6170 ms
+2023-10-01 19:51:27.693 +02:00 [INF] HTTP POST /api/v1.0/accounts/275eb0082da049c98d4e39dd6fea612a/confirmation responded 200 in 15.6164 ms
+2023-10-01 19:51:27.732 +02:00 [INF] HTTP GET /api/v1.0/user/alerts responded 200 in 35.3863 ms
+2023-10-01 19:51:32.813 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:51:32.832 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:51:32.835 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:51:32.835 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:51:32.835 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:51:33.042 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 222.2256 ms
+2023-10-01 20:05:38.086 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:05:38.108 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:05:38.110 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:05:38.111 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:05:38.111 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:05:38.300 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 196.3397 ms
+2023-10-01 20:05:38.349 +02:00 [INF] HTTP POST /api/v1.0/accounts/601bc95579b44f238c9fbac4e897deba/confirmation responded 200 in 23.0684 ms
+2023-10-01 20:05:38.376 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 17.1843 ms
+2023-10-01 20:05:38.445 +02:00 [INF] HTTP POST /api/v1.0/sensors/8a727f3c-fe3f-4d40-9e24-963baa3641b0/measurements responded 200 in 52.8043 ms
+2023-10-01 20:05:38.486 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 26.5571 ms
+2023-10-01 20:07:24.209 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:07:24.229 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:07:24.231 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:07:24.231 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:07:24.231 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:07:24.403 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 182.4624 ms
+2023-10-01 20:07:24.448 +02:00 [INF] HTTP POST /api/v1.0/accounts/8009f92c2260431aadfd4c97022d1440/confirmation responded 200 in 17.7989 ms
+2023-10-01 20:07:24.473 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 15.8108 ms
+2023-10-01 20:07:24.534 +02:00 [INF] HTTP POST /api/v1.0/sensors/b35a225e-c6e9-4259-ba07-dad92c8a5704/measurements responded 200 in 44.6903 ms
+2023-10-01 20:07:24.568 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 22.9968 ms
+2023-10-01 20:08:02.614 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:08:02.635 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:08:02.637 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:08:02.637 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:08:02.637 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:08:02.805 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 178.4218 ms
+2023-10-01 20:08:02.851 +02:00 [INF] HTTP POST /api/v1.0/accounts/55a44b1932e34658b624e78be23177dd/confirmation responded 200 in 17.9728 ms
+2023-10-01 20:08:02.875 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 14.5128 ms
+2023-10-01 20:08:02.934 +02:00 [INF] HTTP POST /api/v1.0/sensors/54cfdda3-68f6-4115-9661-4fb373348e18/measurements responded 200 in 45.5457 ms
+2023-10-01 20:08:02.969 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 24.0688 ms
+2023-10-01 20:09:53.119 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:09:53.140 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:09:53.142 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:09:53.143 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:09:53.143 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:09:53.363 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 227.7633 ms
+2023-10-01 20:09:53.416 +02:00 [INF] HTTP POST /api/v1.0/accounts/91819668fbf1446198114a93bb8c9046/confirmation responded 200 in 24.5652 ms
+2023-10-01 20:09:53.443 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 17.5323 ms
+2023-10-01 20:09:53.508 +02:00 [INF] HTTP POST /api/v1.0/sensors/1662d72a-af0b-4f8e-88dd-9baeb705a678/measurements responded 200 in 48.5989 ms
+2023-10-01 20:09:53.545 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 26.2911 ms
+2023-10-01 20:12:58.171 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:12:58.191 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:12:58.193 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:12:58.193 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:12:58.193 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:12:58.360 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 176.2255 ms
+2023-10-01 20:12:58.407 +02:00 [INF] HTTP POST /api/v1.0/accounts/73f8cb90b8024c80a7e74fb4437c3a25/confirmation responded 200 in 18.3129 ms
+2023-10-01 20:12:58.427 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 11.8045 ms
+2023-10-01 20:12:58.441 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 3.3919 ms
+2023-10-01 20:12:58.445 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.2907 ms
+2023-10-01 20:12:58.449 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.1778 ms
+2023-10-01 20:12:58.453 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.0718 ms
+2023-10-01 20:12:58.457 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.5204 ms
+2023-10-01 20:12:58.460 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.2434 ms
+2023-10-01 20:12:58.464 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.0817 ms
+2023-10-01 20:12:58.467 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.0976 ms
+2023-10-01 20:12:58.472 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.3686 ms
+2023-10-01 20:12:58.522 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 41.0253 ms
+2023-10-01 20:13:20.500 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:13:20.522 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:13:20.526 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:13:20.526 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:13:20.526 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:13:20.751 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 237.7077 ms
+2023-10-01 20:13:20.805 +02:00 [INF] HTTP POST /api/v1.0/accounts/6a185ca699094d41a6dee7f7cc312633/confirmation responded 200 in 22.0649 ms
+2023-10-01 20:13:20.830 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 17.5457 ms
+2023-10-01 20:13:20.844 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.6087 ms
+2023-10-01 20:13:20.850 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.0077 ms
+2023-10-01 20:13:20.859 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.4472 ms
+2023-10-01 20:13:20.865 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.2279 ms
+2023-10-01 20:13:20.871 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.1004 ms
+2023-10-01 20:13:20.877 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.9842 ms
+2023-10-01 20:13:20.883 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.2903 ms
+2023-10-01 20:13:20.888 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.8433 ms
+2023-10-01 20:13:20.893 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.3479 ms
+2023-10-01 20:14:22.609 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:14:22.631 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:14:22.634 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:14:22.634 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:14:22.634 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:14:22.803 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 180.3623 ms
+2023-10-01 20:14:22.855 +02:00 [INF] HTTP POST /api/v1.0/accounts/95edaafb8c1f4ceaa8e39c4a2203e849/confirmation responded 200 in 18.3919 ms
+2023-10-01 20:14:22.875 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 12.2679 ms
+2023-10-01 20:14:22.885 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.9141 ms
+2023-10-01 20:14:22.893 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.8168 ms
+2023-10-01 20:14:22.899 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.4631 ms
+2023-10-01 20:14:22.906 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.7900 ms
+2023-10-01 20:14:22.910 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.3708 ms
+2023-10-01 20:14:22.914 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.1543 ms
+2023-10-01 20:14:22.918 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.1975 ms
+2023-10-01 20:14:22.923 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.4549 ms
+2023-10-01 20:14:22.926 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.3538 ms
+2023-10-01 20:15:27.590 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:15:27.611 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:15:27.613 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:15:27.613 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:15:27.613 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:15:27.780 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 179.9277 ms
+2023-10-01 20:15:27.827 +02:00 [INF] HTTP POST /api/v1.0/accounts/263f6b0d60fb4b7b8b4ceecb5f96dea7/confirmation responded 200 in 18.8484 ms
+2023-10-01 20:15:27.850 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 14.0246 ms
+2023-10-01 20:15:27.859 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.0532 ms
+2023-10-01 20:15:27.866 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.5586 ms
+2023-10-01 20:15:27.870 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.3598 ms
+2023-10-01 20:15:27.875 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6640 ms
+2023-10-01 20:15:27.883 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 5.0243 ms
+2023-10-01 20:15:27.887 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.3508 ms
+2023-10-01 20:15:27.894 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.5920 ms
+2023-10-01 20:15:27.898 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.2362 ms
+2023-10-01 20:15:27.902 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.4293 ms
+2023-10-01 20:15:34.583 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 6668.1943 ms
+2023-10-01 20:16:58.990 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:16:59.010 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:16:59.012 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:16:59.012 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:16:59.012 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:16:59.183 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 179.3629 ms
+2023-10-01 20:16:59.245 +02:00 [INF] HTTP POST /api/v1.0/accounts/c843af50aad34d49a81fd49a56af9af3/confirmation responded 200 in 32.9166 ms
+2023-10-01 20:16:59.270 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 13.8919 ms
+2023-10-01 20:16:59.282 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.3061 ms
+2023-10-01 20:16:59.292 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 5.5112 ms
+2023-10-01 20:16:59.297 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.7056 ms
+2023-10-01 20:16:59.302 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.8389 ms
+2023-10-01 20:16:59.307 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.0496 ms
+2023-10-01 20:16:59.311 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.7877 ms
+2023-10-01 20:16:59.319 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.0390 ms
+2023-10-01 20:16:59.324 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.9508 ms
+2023-10-01 20:16:59.328 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.9422 ms
+2023-10-01 20:17:02.867 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 3529.9259 ms
+2023-10-01 20:17:58.242 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:17:58.273 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:17:58.276 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:17:58.277 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:17:58.278 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:17:58.500 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 246.7471 ms
+2023-10-01 20:18:03.215 +02:00 [INF] HTTP POST /api/v1.0/accounts/db25026cdb254d1db32e07c22f6d1c33/confirmation responded 200 in 4684.8183 ms
+2023-10-01 20:19:24.661 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:19:24.687 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:19:24.691 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:19:24.691 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:19:24.691 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:19:24.918 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 242.8353 ms
+2023-10-01 20:19:39.580 +02:00 [INF] HTTP POST /api/v1.0/accounts/1683853bf59f4aa5a22384a5c6baae14/confirmation responded 200 in 14628.1945 ms
+2023-10-01 20:20:07.558 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 27966.3162 ms
+2023-10-01 20:24:06.653 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:24:06.677 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:24:06.679 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:24:06.680 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:24:06.680 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:24:06.903 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 231.8564 ms
+2023-10-01 20:24:39.672 +02:00 [INF] HTTP POST /api/v1.0/accounts/574c96ea169c4b79b3b9980b1aa85256/confirmation responded 200 in 32740.2446 ms
+2023-10-01 20:24:41.570 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1887.4272 ms
+2023-10-01 20:24:41.579 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.6058 ms
+2023-10-01 20:24:41.589 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.3941 ms
+2023-10-01 20:24:41.594 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.9570 ms
+2023-10-01 20:24:41.603 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.2864 ms
+2023-10-01 20:24:41.609 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.1943 ms
+2023-10-01 20:24:41.614 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.8126 ms
+2023-10-01 20:24:41.619 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6202 ms
+2023-10-01 20:24:41.624 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.3344 ms
+2023-10-01 20:24:41.629 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.8042 ms
+2023-10-01 20:24:41.664 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 25.9684 ms
+2023-10-01 20:25:21.363 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:25:21.387 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:25:21.392 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:25:21.392 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:25:21.392 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:25:21.592 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 209.3646 ms
+2023-10-01 20:25:25.678 +02:00 [INF] HTTP POST /api/v1.0/accounts/14bcde64546842f192aa0612cf2f18ad/confirmation responded 200 in 4058.2064 ms
+2023-10-01 20:25:31.567 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 5872.3864 ms
+2023-10-01 20:25:35.656 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 4081.4300 ms
+2023-10-01 20:25:45.323 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 9664.0241 ms
+2023-10-01 20:25:45.331 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.4606 ms
+2023-10-01 20:25:45.336 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.0449 ms
+2023-10-01 20:25:45.340 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.0721 ms
+2023-10-01 20:25:45.346 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.8445 ms
+2023-10-01 20:25:45.351 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.0653 ms
+2023-10-01 20:25:45.355 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6395 ms
+2023-10-01 20:25:45.359 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6610 ms
+2023-10-01 20:26:46.028 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:26:46.050 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:26:46.052 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:26:46.053 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:26:46.053 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:26:46.240 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 198.0325 ms
+2023-10-01 20:26:46.304 +02:00 [INF] HTTP POST /api/v1.0/accounts/3f6fd642e72a423d8c7c63e0ebb1c1e5/confirmation responded 200 in 35.7890 ms
+2023-10-01 20:26:46.325 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 13.2506 ms
+2023-10-01 20:26:46.339 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.9931 ms
+2023-10-01 20:26:46.344 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.8967 ms
+2023-10-01 20:26:46.352 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6936 ms
+2023-10-01 20:26:46.357 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.9481 ms
+2023-10-01 20:26:46.361 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6674 ms
+2023-10-01 20:26:46.365 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.4916 ms
+2023-10-01 20:26:46.373 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.8274 ms
+2023-10-01 20:26:46.378 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.7419 ms
+2023-10-01 20:26:46.382 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6300 ms
+2023-10-01 20:26:55.516 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 9124.0984 ms
+2023-10-01 20:27:38.487 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:27:38.517 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:27:38.520 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:27:38.521 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:27:38.521 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:27:38.766 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 256.3944 ms
+2023-10-01 20:27:38.832 +02:00 [INF] HTTP POST /api/v1.0/accounts/fe5b3bcd332d42bab7693eaa423fcdd8/confirmation responded 200 in 38.0987 ms
+2023-10-01 20:27:38.858 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 16.0523 ms
+2023-10-01 20:27:38.869 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 3.0183 ms
+2023-10-01 20:27:38.879 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 3.1536 ms
+2023-10-01 20:27:38.892 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 7.6571 ms
+2023-10-01 20:27:38.902 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.7504 ms
+2023-10-01 20:27:38.910 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.6077 ms
+2023-10-01 20:27:38.916 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.4883 ms
+2023-10-01 20:27:38.922 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.8379 ms
+2023-10-01 20:27:38.929 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.8178 ms
+2023-10-01 20:27:38.934 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.3175 ms
+2023-10-01 20:27:57.732 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:27:57.753 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:27:57.755 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:27:57.755 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:27:57.755 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:27:57.955 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 210.8460 ms
+2023-10-01 20:28:01.334 +02:00 [INF] HTTP POST /api/v1.0/accounts/2cba3a5bf7ff432394867cc4d89a94af/confirmation responded 200 in 3348.2549 ms
+2023-10-01 20:28:03.229 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1889.0839 ms
+2023-10-01 20:28:04.277 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1033.8550 ms
+2023-10-01 20:28:05.173 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 889.0385 ms
+2023-10-01 20:28:06.184 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1001.7880 ms
+2023-10-01 20:28:07.249 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1061.1734 ms
+2023-10-01 20:28:08.136 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 883.9227 ms
+2023-10-01 20:28:08.364 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 223.6353 ms
+2023-10-01 20:28:08.640 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 272.1962 ms
+2023-10-01 20:28:40.239 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 31594.5531 ms
+2023-10-01 20:28:42.978 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2734.7749 ms
+2023-10-01 20:28:52.389 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 9395.7370 ms
+2023-10-01 20:30:32.248 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:30:32.267 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:30:32.269 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:30:32.269 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:30:32.269 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:30:32.407 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 152.7804 ms
+2023-10-01 20:30:32.452 +02:00 [INF] HTTP POST /api/v1.0/accounts/394903e4997e4b39a90d1a25a3bebc9a/confirmation responded 200 in 33.2314 ms
+2023-10-01 20:30:32.467 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 9.6019 ms
+2023-10-01 20:30:32.475 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 3.0692 ms
+2023-10-01 20:30:32.479 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.7480 ms
+2023-10-01 20:30:32.482 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.4491 ms
+2023-10-01 20:30:32.484 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.1932 ms
+2023-10-01 20:30:32.487 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.2494 ms
+2023-10-01 20:30:32.490 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.8768 ms
+2023-10-01 20:30:32.492 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.5941 ms
+2023-10-01 20:30:32.495 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.4064 ms
+2023-10-01 20:30:32.498 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.1896 ms
+2023-10-01 20:30:32.528 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 26.7941 ms
+2023-10-01 20:31:11.517 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:31:11.538 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:31:11.540 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:31:11.541 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:31:11.541 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:31:11.714 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 181.3747 ms
+2023-10-01 20:31:11.772 +02:00 [INF] HTTP POST /api/v1.0/accounts/293f5f8e214a489c95397b19090a2285/confirmation responded 200 in 34.5870 ms
+2023-10-01 20:31:11.795 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 12.8318 ms
+2023-10-01 20:31:11.807 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.6595 ms
+2023-10-01 20:31:11.812 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.1142 ms
+2023-10-01 20:31:11.816 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6477 ms
+2023-10-01 20:31:11.820 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.4713 ms
+2023-10-01 20:31:11.825 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.9718 ms
+2023-10-01 20:31:11.829 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.7153 ms
+2023-10-01 20:31:11.833 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.7813 ms
+2023-10-01 20:31:11.840 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.5213 ms
+2023-10-01 20:31:11.845 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.5334 ms
+2023-10-01 20:31:31.570 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:31:31.591 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:31:31.593 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:31:31.593 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:31:31.593 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:31:31.751 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 168.6760 ms
+2023-10-01 20:31:31.814 +02:00 [INF] HTTP POST /api/v1.0/accounts/ba3066b0d79a4185a0fe2446eaa1dad9/confirmation responded 200 in 33.9280 ms
+2023-10-01 20:31:31.837 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 12.6362 ms
+2023-10-01 20:31:31.855 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.9634 ms
+2023-10-01 20:31:31.863 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.1136 ms
+2023-10-01 20:31:31.868 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6751 ms
+2023-10-01 20:31:31.873 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.2918 ms
+2023-10-01 20:31:31.877 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6733 ms
+2023-10-01 20:31:31.881 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.4888 ms
+2023-10-01 20:31:31.884 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.5110 ms
+2023-10-01 20:31:31.889 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.0250 ms
+2023-10-01 20:31:31.893 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6881 ms
+2023-10-01 20:31:46.368 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 14467.3800 ms
+2023-10-01 20:33:04.010 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:33:04.031 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:33:04.033 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:33:04.033 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:33:04.033 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:33:04.206 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 182.2539 ms
+2023-10-01 20:33:04.265 +02:00 [INF] HTTP POST /api/v1.0/accounts/0715a079e50b42c2839d1dd7ad5081b9/confirmation responded 200 in 31.7189 ms
+2023-10-01 20:33:04.290 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 14.2329 ms
+2023-10-01 20:33:04.299 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.2589 ms
+2023-10-01 20:33:04.303 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.7887 ms
+2023-10-01 20:33:04.308 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.5367 ms
+2023-10-01 20:33:04.313 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.7694 ms
+2023-10-01 20:33:04.317 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.5232 ms
+2023-10-01 20:33:04.322 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.5834 ms
+2023-10-01 20:33:04.327 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.0521 ms
+2023-10-01 20:33:04.331 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.5447 ms
+2023-10-01 20:33:04.338 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.7471 ms
+2023-10-01 20:33:07.935 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 3587.8687 ms
+2023-10-01 20:35:26.328 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:35:26.354 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:35:26.357 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:35:26.357 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:35:26.357 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:35:26.582 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 237.2507 ms
+2023-10-01 20:35:26.652 +02:00 [INF] HTTP POST /api/v1.0/accounts/91ed8e3940e04286aa909746b8c821c8/confirmation responded 200 in 39.7037 ms
+2023-10-01 20:35:26.675 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 15.4107 ms
+2023-10-01 20:35:26.688 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 3.3759 ms
+2023-10-01 20:35:26.695 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.1201 ms
+2023-10-01 20:35:26.707 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 5.9098 ms
+2023-10-01 20:35:26.711 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6035 ms
+2023-10-01 20:35:26.716 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.4071 ms
+2023-10-01 20:35:26.720 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.1888 ms
+2023-10-01 20:35:26.725 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.7848 ms
+2023-10-01 20:35:26.729 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.3557 ms
+2023-10-01 20:35:26.732 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.3610 ms
+2023-10-01 20:35:26.772 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 28.4771 ms
+2023-10-01 20:36:46.354 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:36:46.377 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:36:46.379 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:36:46.379 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:36:46.379 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:36:46.558 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 191.1288 ms
+2023-10-01 20:36:46.626 +02:00 [INF] HTTP POST /api/v1.0/accounts/33cd30ac3f664496ab71f9b555e67550/confirmation responded 200 in 38.0296 ms
+2023-10-01 20:36:46.657 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 18.5262 ms
+2023-10-01 20:36:46.673 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 3.8853 ms
+2023-10-01 20:36:46.681 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 3.5326 ms
+2023-10-01 20:36:46.685 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.2457 ms
+2023-10-01 20:36:46.692 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 3.4157 ms
+2023-10-01 20:36:46.702 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 6.0358 ms
+2023-10-01 20:36:46.710 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.9404 ms
+2023-10-01 20:36:46.716 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 3.1885 ms
+2023-10-01 20:36:46.724 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 3.8881 ms
+2023-10-01 20:36:46.729 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.0946 ms
+2023-10-01 20:37:14.515 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 27775.1807 ms
+2023-10-01 20:37:22.841 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 20:37:22.859 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 20:37:22.861 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 20:37:22.861 +02:00 [INF] Hosting environment: Production
+2023-10-01 20:37:22.861 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 20:37:23.000 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 148.9038 ms
+2023-10-01 20:37:23.041 +02:00 [INF] HTTP POST /api/v1.0/accounts/926d67c59825487ab14e54c186fded28/confirmation responded 200 in 30.3954 ms
+2023-10-01 20:37:23.057 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 10.7263 ms
+2023-10-01 20:37:23.064 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.5921 ms
+2023-10-01 20:37:23.069 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.4838 ms
+2023-10-01 20:37:23.074 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 3.3117 ms
+2023-10-01 20:37:23.077 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6128 ms
+2023-10-01 20:37:23.081 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.6508 ms
+2023-10-01 20:37:23.083 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.2318 ms
+2023-10-01 20:37:23.086 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.5576 ms
+2023-10-01 20:37:23.090 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 2.1940 ms
+2023-10-01 20:37:23.092 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 1.5492 ms
+2023-10-01 20:37:23.124 +02:00 [INF] HTTP GET /api/v1.0/admin/searchableDashboard responded 200 in 26.5573 ms
+2023-10-01 21:13:23.169 +02:00 [INF] Now listening on: http://localhost:6896
+2023-10-01 21:13:23.189 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 21:13:23.189 +02:00 [INF] Hosting environment: Production
+2023-10-01 21:13:23.189 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 21:13:23.437 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 181.9281 ms
+2023-10-01 21:13:23.489 +02:00 [INF] HTTP POST /api/v1.0/sensors/8bbb7667-3dbe-4b7b-860f-437183c1c1d8/measurements responded 200 in 37.7491 ms

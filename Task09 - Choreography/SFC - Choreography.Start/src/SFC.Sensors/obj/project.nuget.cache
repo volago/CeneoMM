@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/x9NxQbD7Rk8SgX1LUyGoQsqsXoTbVhoXB0JKQMSPKTLGC/hSidGGsl6KvKNxklJN7tU0NWuSpjT+XaFzsmYrQ==",
+  "dgSpecHash": "RyYOU+BRpAbC7uVtwXlCs9tBso8XIlsrUuiz4ZDBtDwwjcGJg+3M46VEj+O8QGYfvh9fEoQ4OIXTc0i5mF6dxA==",
   "success": true,
-  "projectFilePath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj",
+  "projectFilePath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szymek\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\szymek\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",

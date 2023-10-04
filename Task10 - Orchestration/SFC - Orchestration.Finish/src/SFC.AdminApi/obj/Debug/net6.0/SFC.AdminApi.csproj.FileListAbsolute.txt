@@ -1,0 +1,81 @@
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.AdminApi.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.AdminApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\obj\Debug\net6.0\refint\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.AdminApi\obj\Debug\net6.0\ref\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.AdminApi.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.AdminApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\obj\Debug\net6.0\refint\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.AdminApi\obj\Debug\net6.0\ref\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.AdminApi.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.AdminApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\obj\Debug\net6.0\refint\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\obj\Debug\net6.0\SFC.AdminApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.AdminApi\obj\Debug\net6.0\ref\SFC.AdminApi.dll

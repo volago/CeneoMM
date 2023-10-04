@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC\\SFC.csproj": {}
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC\\SFC.csproj": {}
   },
   "projects": {
-    "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj": {
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj",
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj",
         "projectName": "SFC.Alerts",
-        "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj",
         "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\obj\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj": {
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj",
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj",
         "projectName": "SFC.Infrastructure.Interfaces",
-        "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj",
         "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\obj\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,8 +108,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
               }
             }
           }
@@ -143,14 +143,14 @@
         }
       }
     },
-    "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj": {
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj",
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj",
         "projectName": "SFC.Infrastructure",
-        "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\obj\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -167,11 +167,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
               }
             }
           }
@@ -231,14 +231,14 @@
         }
       }
     },
-    "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj": {
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj",
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj",
         "projectName": "SFC.Notifications",
-        "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj",
         "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\obj\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -255,14 +255,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
               }
             }
           }
@@ -314,14 +314,14 @@
         }
       }
     },
-    "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj": {
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj",
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj",
         "projectName": "SFC.Processes",
-        "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj",
         "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\obj\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -338,14 +338,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj"
               }
             }
           }
@@ -393,14 +393,14 @@
         }
       }
     },
-    "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj": {
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj",
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj",
         "projectName": "SFC.Sensors",
-        "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj",
         "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\obj\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -417,11 +417,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
               }
             }
           }
@@ -469,14 +469,14 @@
         }
       }
     },
-    "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
         "projectName": "SFC.SharedKernel",
-        "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
         "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\obj\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -524,14 +524,14 @@
         }
       }
     },
-    "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.UsersApi\\SFC.UserApi.csproj": {
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.UsersApi\\SFC.UserApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.UsersApi\\SFC.UserApi.csproj",
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.UsersApi\\SFC.UserApi.csproj",
         "projectName": "SFC.UserApi",
-        "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.UsersApi\\SFC.UserApi.csproj",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.UsersApi\\SFC.UserApi.csproj",
         "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.UsersApi\\obj\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.UsersApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -548,23 +548,23 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj"
               }
             }
           }
@@ -620,14 +620,14 @@
         }
       }
     },
-    "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC\\SFC.csproj": {
+    "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC\\SFC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC\\SFC.csproj",
+        "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC\\SFC.csproj",
         "projectName": "SFC",
-        "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC\\SFC.csproj",
+        "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC\\SFC.csproj",
         "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-        "outputPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC\\obj\\",
+        "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -644,23 +644,23 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj"
               },
-              "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.UsersApi\\SFC.UserApi.csproj": {
-                "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.UsersApi\\SFC.UserApi.csproj"
+              "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.UsersApi\\SFC.UserApi.csproj": {
+                "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.UsersApi\\SFC.UserApi.csproj"
               }
             }
           }

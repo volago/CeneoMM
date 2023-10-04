@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hg8no51vQNQokFOmbGCuseU+OEkclfQbkwzPWZW8x9dQRB2xVZvYgK/TVp5EccbkQHxPBKel7SJge5P+x5xdbg==",
+  "dgSpecHash": "OKivQcX8p/Kx3eyD2UJTDHyZIMoS7wx/xtB9RlB4PmXK6UAkY7c2WxXCtyMgjJSmp4qqyRAGWYuJWYhvTxUFTA==",
   "success": true,
-  "projectFilePath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj",
+  "projectFilePath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Processes\\SFC.Processes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szymek\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\szymek\\.nuget\\packages\\automatonymous\\5.1.3\\automatonymous.5.1.3.nupkg.sha512",

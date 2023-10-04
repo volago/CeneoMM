@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b6TRis/qf50hSpuGgcRRPnG97mAnsiEV/8BNWJqxja4Undgsj+4sh/cEDEkPagfLE0NpJ7fEhLRbc4wTmnv7+A==",
+  "dgSpecHash": "CTYjeNUOjX9YU/87GgW+mAl8CCL9TG3UvSY+LB3xceVUtfnvZz6dPGoAI1NZwd07P9ZdUK/KfNaWChZ4nS3mBA==",
   "success": true,
-  "projectFilePath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
+  "projectFilePath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

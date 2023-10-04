@@ -1,0 +1,9 @@
+2023-09-29 23:29:51.607 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 6.1266 ms
+2023-09-29 23:29:51.632 +02:00 [INF] HTTP POST /api/v1.0/sensors/f17865ac-5cce-4549-952f-2ad028dafaef/measurements responded 404 in 0.1187 ms
+2023-09-29 23:30:25.533 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:30:25.549 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:30:25.551 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:30:25.552 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:30:25.552 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:30:25.640 +02:00 [INF] HTTP POST /api/v1.0/user/ responded 200 in 98.5698 ms
+2023-09-29 23:30:25.674 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 21.5028 ms

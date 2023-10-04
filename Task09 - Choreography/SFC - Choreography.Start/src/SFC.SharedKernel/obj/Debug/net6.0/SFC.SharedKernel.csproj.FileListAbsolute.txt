@@ -31,14 +31,3 @@ C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreograp
 C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\obj\Debug\net6.0\refint\SFC.SharedKernel.dll
 C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\obj\Debug\net6.0\SFC.SharedKernel.pdb
 C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\obj\Debug\net6.0\ref\SFC.SharedKernel.dll
-C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\bin\Debug\net6.0\SFC.SharedKernel.deps.json
-C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\bin\Debug\net6.0\SFC.SharedKernel.dll
-C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\bin\Debug\net6.0\SFC.SharedKernel.pdb
-C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\obj\Debug\net6.0\SFC.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
-C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\obj\Debug\net6.0\SFC.SharedKernel.AssemblyInfoInputs.cache
-C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\obj\Debug\net6.0\SFC.SharedKernel.AssemblyInfo.cs
-C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\obj\Debug\net6.0\SFC.SharedKernel.csproj.CoreCompileInputs.cache
-C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\obj\Debug\net6.0\SFC.SharedKernel.dll
-C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\obj\Debug\net6.0\refint\SFC.SharedKernel.dll
-C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\obj\Debug\net6.0\SFC.SharedKernel.pdb
-C:\My\Trainings\CeneoMM\Task09 - Choreography\SFC - Choreography.Start\src\SFC.SharedKernel\obj\Debug\net6.0\ref\SFC.SharedKernel.dll

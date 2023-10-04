@@ -1,0 +1,18 @@
+2023-09-30 23:11:30.993 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-30 23:11:31.026 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-30 23:11:31.027 +02:00 [INF] Hosting environment: Development
+2023-09-30 23:11:31.028 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC\
+2023-09-30 23:11:47.327 +02:00 [INF] HTTP GET /api/v1/SendNotificationsByUser responded 200 in 284.6038 ms
+2023-09-30 23:12:51.669 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-30 23:12:51.704 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-30 23:12:51.707 +02:00 [INF] Hosting environment: Development
+2023-09-30 23:12:51.707 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC\
+2023-09-30 23:13:16.483 +02:00 [INF] HTTP POST /api/v1/Accounts responded 201 in 395.4670 ms
+2023-09-30 23:13:39.825 +02:00 [INF] HTTP POST /api/v1/Accounts/7548c8c58e47403e9879c9fa09a1791c/confirmation responded 200 in 50.8448 ms
+2023-09-30 23:13:47.985 +02:00 [INF] HTTP POST /api/v1/Accounts/7548c8c58e47403e9879c9fa09a1791c/confirmation responded 200 in 4274.8939 ms
+2023-09-30 23:14:21.706 +02:00 [INF] HTTP GET /api/v1/AlertNotificationsWithUserData responded 200 in 11146.4811 ms
+2023-09-30 23:15:22.807 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-30 23:15:22.840 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-30 23:15:22.840 +02:00 [INF] Hosting environment: Development
+2023-09-30 23:15:22.841 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC\
+2023-09-30 23:15:42.982 +02:00 [INF] HTTP GET /api/v1/AlertNotificationsWithUserData responded 200 in 13154.5748 ms

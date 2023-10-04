@@ -1,0 +1,104 @@
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.Processes.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\obj\Debug\net6.0\refint\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Processes\obj\Debug\net6.0\ref\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.Processes.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\obj\Debug\net6.0\refint\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Processes\obj\Debug\net6.0\ref\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Processes.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\obj\Debug\net6.0\refint\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\obj\Debug\net6.0\ref\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Processes\bin\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Processes.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\obj\Debug\net6.0\refint\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\obj\Debug\net6.0\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Processes\obj\Debug\net6.0\ref\SFC.Processes.dll

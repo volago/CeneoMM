@@ -1,0 +1,69 @@
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SensorApi.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SensorApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\obj\Debug\net6.0\refint\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.SensorApi\obj\Debug\net6.0\ref\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SensorApi.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SensorApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\obj\Debug\net6.0\refint\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SensorApi\obj\Debug\net6.0\ref\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SensorApi.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SensorApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\obj\Debug\net6.0\refint\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\obj\Debug\net6.0\SFC.SensorApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.SensorApi\obj\Debug\net6.0\ref\SFC.SensorApi.dll

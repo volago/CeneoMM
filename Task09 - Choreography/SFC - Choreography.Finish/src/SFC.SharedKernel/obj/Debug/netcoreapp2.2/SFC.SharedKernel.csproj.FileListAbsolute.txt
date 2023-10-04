@@ -1,0 +1,10 @@
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SharedKernel\bin\Debug\netcoreapp2.2\SFC.SharedKernel.deps.json
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SharedKernel\bin\Debug\netcoreapp2.2\SFC.SharedKernel.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SharedKernel\bin\Debug\netcoreapp2.2\SFC.SharedKernel.pdb
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SharedKernel\obj\Debug\netcoreapp2.2\SFC.SharedKernel.csproj.AssemblyReference.cache
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SharedKernel\obj\Debug\netcoreapp2.2\SFC.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SharedKernel\obj\Debug\netcoreapp2.2\SFC.SharedKernel.AssemblyInfoInputs.cache
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SharedKernel\obj\Debug\netcoreapp2.2\SFC.SharedKernel.AssemblyInfo.cs
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SharedKernel\obj\Debug\netcoreapp2.2\SFC.SharedKernel.csproj.CoreCompileInputs.cache
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SharedKernel\obj\Debug\netcoreapp2.2\SFC.SharedKernel.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.SharedKernel\obj\Debug\netcoreapp2.2\SFC.SharedKernel.pdb

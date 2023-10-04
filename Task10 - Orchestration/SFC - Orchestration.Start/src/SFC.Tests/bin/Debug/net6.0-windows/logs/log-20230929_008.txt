@@ -1,0 +1,41 @@
+2023-09-29 23:26:46.974 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 6.3035 ms
+2023-09-29 23:26:46.990 +02:00 [INF] HTTP POST /api/v1.0/sensors/2f009000-3a9f-4014-9ee9-b2a1fe358010/measurements responded 404 in 0.1069 ms
+2023-09-29 23:29:51.247 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:29:51.266 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:29:51.268 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:29:51.268 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:29:51.268 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:29:51.374 +02:00 [INF] HTTP POST /api/v1.0/user/ responded 200 in 109.7562 ms
+2023-09-29 23:29:51.410 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 21.7290 ms
+2023-09-29 23:29:51.565 +02:00 [ERR] Connection id "0HMU16CRF2H09", Request id "0HMU16CRF2H09:00000002": An unhandled exception was thrown by the application.
+Autofac.Core.Registration.ComponentNotRegisteredException: The requested service 'SFC.Infrastructure.Interfaces.IQueryHandler`2[[SFC.Accounts.Features.GetAccountByLoginName.GetAccountByLoginNameRequest, SFC.Accounts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[SFC.Accounts.Features.GetAccountByLoginName.GetAccountByLoginNameResponse, SFC.Accounts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' has not been registered. To avoid this exception, either register a component to provide the service, check for service registration using IsRegistered(), or use the ResolveOptional() method to resolve an optional dependency.
+
+See https://autofac.rtfd.io/help/service-not-registered for more info.
+   at Autofac.ResolutionExtensions.ResolveService(IComponentContext context, Service service, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve(IComponentContext context, Type serviceType, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve(IComponentContext context, Type serviceType)
+   at SFC.Infrastructure.Bus.Query[TResponse](IRequest`1 request) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Infrastructure\Bus.cs:line 41
+   at SFC.Processes.Features.UserRegistration.UserRegistrationHandler.Handle(RegisterUserCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Processes\Features\UserRegistration\UserRegistrationHandler.cs:line 30
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Infrastructure\Bus.cs:line 22
+   at SFC.UserApi.Features.Accounts.AccountsController.PostAccount(PostAccountModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.UsersApi\Features\Accounts\AccountsController.cs:line 29
+   at lambda_method550(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cGlg/ZmBGKKT44gWcKEmKqrL1wOBhCNuTnytX0x6Au1JDio2YOgNh/EAaAvPQrsUYGQvSwPbWMA9k3nQPPe0dg==",
+  "dgSpecHash": "p0Vd9D3riBBgDlY6tTT2Zt4h8+qmsXwmq1TKaHcm5PXJ2jF70P3vwO3VDWDUmTSyVaAhazYMx4k0Cf6eLtnsug==",
   "success": true,
-  "projectFilePath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC\\SFC.csproj",
+  "projectFilePath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC\\SFC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szymek\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\szymek\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

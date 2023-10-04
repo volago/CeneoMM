@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
+      "projectUniqueName": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
       "projectName": "SFC.SharedKernel",
-      "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
+      "projectPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
       "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-      "outputPath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\obj\\",
+      "outputPath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.SharedKernel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",

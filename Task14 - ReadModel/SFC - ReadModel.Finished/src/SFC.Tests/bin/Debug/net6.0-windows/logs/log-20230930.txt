@@ -1,0 +1,42 @@
+2023-09-30 00:09:30.672 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-30 00:09:30.691 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-30 00:09:30.693 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-30 00:09:30.693 +02:00 [INF] Hosting environment: Production
+2023-09-30 00:09:30.694 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-30 00:09:30.834 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 156.6545 ms
+2023-09-30 00:09:30.859 +02:00 [INF] HTTP POST /api/v1.0/accounts/cf59c2c9a7414e9a9810e4bf48670d06/confirmation responded 200 in 12.1528 ms
+2023-09-30 00:10:22.021 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-30 00:10:22.043 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-30 00:10:22.045 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-30 00:10:22.045 +02:00 [INF] Hosting environment: Production
+2023-09-30 00:10:22.046 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-30 00:10:22.260 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 194.1996 ms
+2023-09-30 00:11:43.151 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-30 00:11:43.172 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-30 00:11:43.174 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-30 00:11:43.174 +02:00 [INF] Hosting environment: Production
+2023-09-30 00:11:43.174 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-30 00:11:43.331 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 168.1531 ms
+2023-09-30 00:12:55.408 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-30 00:12:55.428 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-30 00:12:55.431 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-30 00:12:55.432 +02:00 [INF] Hosting environment: Production
+2023-09-30 00:12:55.432 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-30 00:12:55.635 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 175.4072 ms
+2023-09-30 00:12:58.249 +02:00 [INF] HTTP POST /api/v1.0/accounts/634fc6b452f748aa9690411f967c0219/confirmation responded 200 in 2581.5223 ms
+2023-09-30 00:13:58.928 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-30 00:13:58.951 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-30 00:13:58.953 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-30 00:13:58.954 +02:00 [INF] Hosting environment: Production
+2023-09-30 00:13:58.954 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-30 00:13:59.151 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 206.3502 ms
+2023-09-30 00:14:02.964 +02:00 [INF] HTTP POST /api/v1.0/accounts/2d98c944a9644b9ea8dd60992e8d2995/confirmation responded 200 in 3779.1982 ms
+2023-09-30 00:14:05.166 +02:00 [INF] HTTP GET /api/v1.0/user/alerts responded 200 in 37.8517 ms
+2023-09-30 00:15:50.224 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-30 00:15:50.242 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-30 00:15:50.244 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-30 00:15:50.245 +02:00 [INF] Hosting environment: Production
+2023-09-30 00:15:50.245 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-30 00:15:50.387 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 157.7299 ms
+2023-09-30 00:15:50.414 +02:00 [INF] HTTP POST /api/v1.0/accounts/8d9d3433ec864c0799c1f12bf506b09b/confirmation responded 200 in 14.8394 ms
+2023-09-30 00:15:50.453 +02:00 [INF] HTTP GET /api/v1.0/user/alerts responded 200 in 34.9034 ms

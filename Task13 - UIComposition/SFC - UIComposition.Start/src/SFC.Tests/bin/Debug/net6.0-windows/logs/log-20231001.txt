@@ -1,0 +1,148 @@
+2023-10-01 12:10:03.275 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 12:10:03.297 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 12:10:03.300 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 12:10:03.300 +02:00 [INF] Hosting environment: Production
+2023-10-01 12:10:03.301 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 12:10:03.560 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 237.0950 ms
+2023-10-01 12:10:03.610 +02:00 [INF] HTTP POST /api/v1.0/accounts/9a959f3c4ca8496f872a965b9bf04539/confirmation responded 200 in 21.1806 ms
+2023-10-01 12:10:03.624 +02:00 [INF] HTTP POST /api/v1.0/sensors responded 404 in 0.0830 ms
+2023-10-01 15:20:20.247 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:20:20.277 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:20:20.280 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:20:20.280 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:20:20.280 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:20:20.594 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 277.6498 ms
+2023-10-01 15:20:20.642 +02:00 [INF] HTTP POST /api/v1.0/accounts/126623afc8524f69a2a14964937d5fe5/confirmation responded 200 in 18.8832 ms
+2023-10-01 15:20:20.661 +02:00 [INF] HTTP POST /api/v1.0/sensors responded 404 in 0.0956 ms
+2023-10-01 15:21:02.220 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:21:02.252 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:21:02.255 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:21:02.255 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:21:02.255 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:21:02.488 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 249.5338 ms
+2023-10-01 15:21:02.547 +02:00 [INF] HTTP POST /api/v1.0/accounts/6f0ef18ec1f449acbf274ce4b2246bca/confirmation responded 200 in 21.6307 ms
+2023-10-01 15:21:02.556 +02:00 [INF] HTTP POST /api/v1.0/sensors responded 404 in 0.0861 ms
+2023-10-01 15:22:15.073 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:22:15.095 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:22:15.098 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:22:15.098 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:22:15.098 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:22:15.292 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 204.0522 ms
+2023-10-01 15:22:15.342 +02:00 [INF] HTTP POST /api/v1.0/accounts/ece53f27e0654167a4734fae6c5600c3/confirmation responded 200 in 19.2562 ms
+2023-10-01 15:22:15.350 +02:00 [INF] HTTP POST /api/v1.0/sensors responded 404 in 0.0834 ms
+2023-10-01 15:22:56.941 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:22:56.966 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:22:56.975 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:22:56.976 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:22:56.976 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:22:57.215 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 258.9275 ms
+2023-10-01 15:22:57.260 +02:00 [INF] HTTP POST /api/v1.0/accounts/6c3b7039ccd840a68e7fa42f14e90275/confirmation responded 200 in 17.7806 ms
+2023-10-01 15:22:57.287 +02:00 [INF] HTTP POST /api/v1.0/sensors responded 415 in 16.5511 ms
+2023-10-01 15:24:07.590 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:24:07.614 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:24:07.617 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:24:07.618 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:24:07.618 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:24:07.801 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 194.0933 ms
+2023-10-01 15:24:07.850 +02:00 [INF] HTTP POST /api/v1.0/accounts/2dbf502def1049e7a6a6740ae7115e4f/confirmation responded 200 in 19.5433 ms
+2023-10-01 15:24:07.876 +02:00 [INF] HTTP POST /api/v1.0/sensors responded 415 in 16.0337 ms
+2023-10-01 15:28:58.572 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:28:58.593 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:28:58.595 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:28:58.595 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:28:58.595 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:28:58.740 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 162.8629 ms
+2023-10-01 15:28:58.765 +02:00 [INF] HTTP POST /api/v1.0/accounts/c166a208c19f454086b137620d18c542/confirmation responded 200 in 15.0299 ms
+2023-10-01 15:28:58.784 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 14.3697 ms
+2023-10-01 15:29:06.096 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:29:06.124 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:29:06.126 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:29:06.127 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:29:06.127 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:29:06.335 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 220.7575 ms
+2023-10-01 15:29:06.384 +02:00 [INF] HTTP POST /api/v1.0/accounts/17d78a383bd945bc99aa22d33e58d9bd/confirmation responded 200 in 20.0318 ms
+2023-10-01 15:29:06.412 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 17.1166 ms
+2023-10-01 15:29:54.408 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:29:54.431 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:29:54.434 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:29:54.434 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:29:54.434 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:29:54.641 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 219.0392 ms
+2023-10-01 15:29:54.691 +02:00 [INF] HTTP POST /api/v1.0/accounts/589ee014494c47118e6582f149b4f714/confirmation responded 200 in 19.1023 ms
+2023-10-01 15:29:54.716 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 16.0262 ms
+2023-10-01 15:29:54.770 +02:00 [INF] HTTP POST /api/v1.0/sensors/23e3e3a8-956a-4216-bde7-67745127bbec/measurements responded 200 in 39.3572 ms
+2023-10-01 15:30:09.323 +02:00 [INF] HTTP GET /api/v1.0/alertNotificationsWithUserData responded 200 in 14539.6253 ms
+2023-10-01 15:31:51.970 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:31:51.992 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:31:52.001 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:31:52.002 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:31:52.002 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:31:52.178 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 199.4724 ms
+2023-10-01 15:31:52.262 +02:00 [INF] HTTP POST /api/v1.0/accounts/552d34d81d6e4ab28b4b4b0fa6daafc3/confirmation responded 200 in 18.9003 ms
+2023-10-01 15:31:52.289 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 17.6313 ms
+2023-10-01 15:31:52.338 +02:00 [INF] HTTP POST /api/v1.0/sensors/41315e86-b4b2-464e-958f-db3e922b8fd9/measurements responded 200 in 32.6554 ms
+2023-10-01 15:34:51.511 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:34:51.536 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:34:51.539 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:34:51.539 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:34:51.539 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:34:51.769 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 245.7916 ms
+2023-10-01 15:34:51.830 +02:00 [INF] HTTP POST /api/v1.0/accounts/949a3976eccd449eb5d7c254e513bebf/confirmation responded 200 in 25.5985 ms
+2023-10-01 15:34:51.861 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 18.9344 ms
+2023-10-01 15:34:51.919 +02:00 [INF] HTTP POST /api/v1.0/sensors/abb5b436-0733-4770-9f7f-6867f39af887/measurements responded 200 in 42.2714 ms
+2023-10-01 15:34:56.498 +02:00 [INF] HTTP GET /api/v1.0/alertNotificationsWithUserData responded 200 in 4568.5022 ms
+2023-10-01 15:35:39.425 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:35:39.449 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:35:39.458 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:35:39.458 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:35:39.458 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:35:39.629 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 191.9049 ms
+2023-10-01 15:35:39.677 +02:00 [INF] HTTP POST /api/v1.0/accounts/fb201c80e8c44f348381608b84833493/confirmation responded 200 in 17.5971 ms
+2023-10-01 15:35:39.701 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 18.1018 ms
+2023-10-01 15:38:04.343 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:38:04.366 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:38:04.369 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:38:04.369 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:38:04.369 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:38:04.634 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 275.8395 ms
+2023-10-01 15:38:04.692 +02:00 [INF] HTTP POST /api/v1.0/accounts/2ae7452c656840d3abb1c392d7eecfc0/confirmation responded 200 in 24.1659 ms
+2023-10-01 15:38:04.730 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 23.3531 ms
+2023-10-01 15:38:47.237 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:38:47.261 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:38:47.263 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:38:47.263 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:38:47.263 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:38:47.454 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 201.1132 ms
+2023-10-01 15:38:47.503 +02:00 [INF] HTTP POST /api/v1.0/accounts/ffbaa22bf69f486fbd0de90fd0013ab0/confirmation responded 200 in 17.5244 ms
+2023-10-01 15:38:47.529 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 16.3086 ms
+2023-10-01 15:39:28.114 +02:00 [INF] HTTP POST /api/v1.0/sensors/c34c7aca-663e-417d-979a-5f9cdcc84127/measurements responded 200 in 40569.4804 ms
+2023-10-01 15:39:29.889 +02:00 [INF] HTTP GET /api/v1.0/alertNotificationsWithUserData responded 200 in 1754.5137 ms
+2023-10-01 15:46:13.186 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:46:13.210 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:46:13.212 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:46:13.213 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:46:13.213 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:46:13.413 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 210.1206 ms
+2023-10-01 15:46:13.462 +02:00 [INF] HTTP POST /api/v1.0/accounts/68d2261320344841ba8b55199381623f/confirmation responded 200 in 20.8019 ms
+2023-10-01 15:46:13.490 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 17.2774 ms
+2023-10-01 15:46:13.532 +02:00 [INF] HTTP POST /api/v1.0/sensors/453f852e-e9d2-4ca0-b09e-d4778e07070c/measurements responded 400 in 25.5158 ms
+2023-10-01 15:46:35.282 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 15:46:35.308 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 15:46:35.310 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 15:46:35.311 +02:00 [INF] Hosting environment: Production
+2023-10-01 15:46:35.311 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 15:46:35.544 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 246.6022 ms
+2023-10-01 15:46:35.600 +02:00 [INF] HTTP POST /api/v1.0/accounts/4960a44a36e040ae91ec5ae916ea9ffd/confirmation responded 200 in 24.2452 ms
+2023-10-01 15:46:35.636 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 24.5059 ms
+2023-10-01 15:46:40.831 +02:00 [INF] HTTP POST /api/v1.0/sensors/4d21a85d-50ef-4e12-a356-9c5d2b8b97f6/measurements responded 200 in 5173.1745 ms
+2023-10-01 15:46:40.935 +02:00 [INF] HTTP GET /api/v1.0/alertNotificationsWithUserData responded 200 in 95.9014 ms
+2023-10-01 19:53:27.287 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-01 19:53:27.308 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-01 19:53:27.310 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 19:53:27.311 +02:00 [INF] Hosting environment: Production
+2023-10-01 19:53:27.311 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 19:53:27.463 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 163.6415 ms
+2023-10-01 19:53:27.493 +02:00 [INF] HTTP POST /api/v1.0/accounts/a47b8ee45e1e4a84910d978032c86373/confirmation responded 200 in 17.4518 ms
+2023-10-01 19:53:27.509 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 13.0817 ms
+2023-10-01 19:53:27.562 +02:00 [INF] HTTP POST /api/v1.0/sensors/4862e8ab-d8e0-40f6-aa29-217245ef1dfc/measurements responded 200 in 42.6940 ms
+2023-10-01 19:53:27.647 +02:00 [INF] HTTP GET /api/v1.0/alertNotificationsWithUserData responded 200 in 78.7599 ms

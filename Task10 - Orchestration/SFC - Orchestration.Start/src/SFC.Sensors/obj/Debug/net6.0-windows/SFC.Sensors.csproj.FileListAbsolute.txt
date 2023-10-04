@@ -1,0 +1,17 @@
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0-windows\SFC.Sensors.deps.json
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0-windows\SFC.Sensors.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0-windows\SFC.Sensors.pdb
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0-windows\SFC.Infrastructure.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0-windows\SFC.SharedKernel.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0-windows\SFC.Infrastructure.pdb
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0-windows\SFC.SharedKernel.pdb
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0-windows\SFC.Sensors.csproj.AssemblyReference.cache
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0-windows\SFC.Sensors.GeneratedMSBuildEditorConfig.editorconfig
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0-windows\SFC.Sensors.AssemblyInfoInputs.cache
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0-windows\SFC.Sensors.AssemblyInfo.cs
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0-windows\SFC.Sensors.csproj.CoreCompileInputs.cache
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0-windows\SFC.Sensors.csproj.CopyComplete
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0-windows\SFC.Sensors.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0-windows\refint\SFC.Sensors.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0-windows\SFC.Sensors.pdb
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0-windows\ref\SFC.Sensors.dll

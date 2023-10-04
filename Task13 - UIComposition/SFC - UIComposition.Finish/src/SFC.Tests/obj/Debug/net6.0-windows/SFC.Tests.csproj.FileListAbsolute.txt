@@ -1,0 +1,706 @@
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.runtimeconfig.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.exe
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\testhost.exe
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\testhost.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\appsettings.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Tests.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Tests.runtimeconfig.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Tests.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Tests.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Autofac.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Autofac.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Automatonymous.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Dapper.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Extensions.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Extensions.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Extensions.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Core.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Db2.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Firebird.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Hana.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.MySql.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Redshift.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.SQLite.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\System.Data.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentValidation.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentValidation.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\FluentValidation.DependencyInjectionExtensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\GreenPipes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Razor.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\RestEase.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Expressions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Extensions.Hosting.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Formatting.Compact.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Settings.Configuration.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.Console.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.Debug.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.File.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.PeriodicBatching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.Seq.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\TestStack.BDDfy.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.assert.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.core.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.UserApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.AdminApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.SensorApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.UserApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\obj\Debug\net6.0-windows\refint\SFC.Tests.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.genruntimeconfig.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Tests\obj\Debug\net6.0-windows\ref\SFC.Tests.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\testhost.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.runtimeconfig.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.exe
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\testhost.exe
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\appsettings.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Tests.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Tests.runtimeconfig.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Tests.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Tests.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Autofac.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Autofac.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Automatonymous.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Dapper.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Extensions.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Extensions.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Extensions.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Core.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Db2.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Firebird.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Hana.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.MySql.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Redshift.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.SQLite.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\System.Data.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentValidation.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentValidation.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\FluentValidation.DependencyInjectionExtensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\GreenPipes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Razor.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\RestEase.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Expressions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Extensions.Hosting.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Formatting.Compact.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Settings.Configuration.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.Console.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.Debug.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.File.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.PeriodicBatching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.Seq.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\TestStack.BDDfy.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.assert.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.core.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.UserApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.AdminApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.SensorApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.UserApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\obj\Debug\net6.0-windows\refint\SFC.Tests.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.genruntimeconfig.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\obj\Debug\net6.0-windows\ref\SFC.Tests.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\StronglyConnectedComponents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\JetBrains.Annotations.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Mono.Cecil.Mdb.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Mono.Cecil.Pdb.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Mono.Cecil.Rocks.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\Mono.Cecil.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ArchUnitNET.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\ArchUnitNET.xUnit.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\obj\Debug\net6.0-windows\refint\SFC.Tests.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\testhost.exe
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\testhost.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.runner.reporters.netcoreapp10.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.runner.utility.netcoreapp10.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.runtimeconfig.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.exe
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\appsettings.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Tests.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Tests.runtimeconfig.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Tests.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Tests.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Autofac.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Autofac.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Automatonymous.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\StronglyConnectedComponents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Dapper.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Extensions.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Extensions.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Extensions.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Extensions.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Core.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Db2.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Firebird.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Hana.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.MySql.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Oracle.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Postgres.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.Redshift.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.SqlAnywhere.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.SQLite.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.SqlServer.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentMigrator.Runner.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\System.Data.SqlServerCe.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentValidation.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentValidation.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\FluentValidation.DependencyInjectionExtensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\GreenPipes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\JetBrains.Annotations.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.AspNetCore.JsonPatch.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Razor.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CoreUtilities.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.TestPlatform.Utilities.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Mono.Cecil.Mdb.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Mono.Cecil.Pdb.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Mono.Cecil.Rocks.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Mono.Cecil.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\RestEase.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.AspNetCore.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Expressions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Extensions.Hosting.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Extensions.Logging.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Formatting.Compact.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Settings.Configuration.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.Console.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.Debug.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.File.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.PeriodicBatching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Serilog.Sinks.Seq.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\TestStack.BDDfy.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ArchUnitNET.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ArchUnitNET.xUnit.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.abstractions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.assert.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.core.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\xunit.execution.dotnet.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\de-DE\FluentMigrator.Abstractions.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Accounts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.AdminApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Processes.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.SensorApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.UserApi.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Accounts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.AdminApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Processes.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.SensorApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\SFC.UserApi.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\obj\Debug\net6.0-windows\SFC.Tests.genruntimeconfig.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task13 - UIComposition\SFC - UIComposition.Finish\src\SFC.Tests\obj\Debug\net6.0-windows\ref\SFC.Tests.dll

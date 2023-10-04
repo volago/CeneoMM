@@ -1,0 +1,271 @@
+2023-09-29 12:00:59.643 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 17.2384 ms
+2023-09-29 12:00:59.715 +02:00 [INF] HTTP POST /api/v1.0/sensors/46e3ec77-e2ca-4fad-83d5-1953bcff735d/measurements responded 200 in 37.6838 ms
+2023-09-29 12:01:52.151 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 12:01:52.171 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 12:01:52.174 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 12:01:52.174 +02:00 [INF] Hosting environment: Production
+2023-09-29 12:01:52.174 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 12:01:52.418 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 261.6899 ms
+2023-09-29 12:01:57.302 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 12:01:57.320 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 12:01:57.323 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 12:01:57.323 +02:00 [INF] Hosting environment: Production
+2023-09-29 12:01:57.323 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 12:01:57.508 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 206.4749 ms
+2023-09-29 12:01:57.546 +02:00 [INF] HTTP POST /api/v1.0/sensors/6d77249f-2938-4e57-a7ed-ff13300bf084/measurements responded 200 in 21.9679 ms
+2023-09-29 21:49:39.369 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:49:39.389 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:49:39.392 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:49:39.392 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:49:39.392 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:49:39.496 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 79.8459 ms
+2023-09-29 21:50:09.051 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:50:09.071 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:50:09.073 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:50:09.074 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:50:09.074 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:50:09.188 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 84.4972 ms
+2023-09-29 21:51:15.204 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:51:15.227 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:51:15.230 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:51:15.230 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:51:15.230 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:51:15.503 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 100.2895 ms
+2023-09-29 21:53:15.646 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:53:15.673 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:53:15.702 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:53:15.702 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:53:15.702 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:53:15.866 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 104.5811 ms
+2023-09-29 21:54:32.404 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:54:32.437 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:54:32.445 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:54:32.445 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:54:32.445 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:55:26.288 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:55:26.308 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:55:26.310 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:55:26.310 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:55:26.310 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:55:26.420 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 82.2083 ms
+2023-09-29 22:41:25.305 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 22:41:25.327 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 22:41:25.330 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 22:41:25.330 +02:00 [INF] Hosting environment: Production
+2023-09-29 22:41:25.330 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 22:41:25.428 +02:00 [INF] HTTP POST /api/v1.0/user/ responded 200 in 114.8180 ms
+2023-09-29 22:41:25.462 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 19.8299 ms
+2023-09-29 23:11:06.040 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:11:06.059 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:11:06.061 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:11:06.061 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:11:06.061 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:11:06.222 +02:00 [ERR] HTTP POST /api/v1.0/accounts responded 500 in 175.0252 ms
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at SFC.Processes.Features.UserRegistration.UserRegistrationHandler.Handle(RegisterUserCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Processes\Features\UserRegistration\UserRegistrationHandler.cs:line 43
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Infrastructure\Bus.cs:line 22
+   at SFC.UserApi.Features.Accounts.AccountsController.PostAccount(PostAccountModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.UsersApi\Features\Accounts\AccountsController.cs:line 29
+   at lambda_method557(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-09-29 23:11:06.242 +02:00 [ERR] Connection id "0HMU162C45FR8", Request id "0HMU162C45FR8:00000002": An unhandled exception was thrown by the application.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at SFC.Processes.Features.UserRegistration.UserRegistrationHandler.Handle(RegisterUserCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Processes\Features\UserRegistration\UserRegistrationHandler.cs:line 43
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Infrastructure\Bus.cs:line 22
+   at SFC.UserApi.Features.Accounts.AccountsController.PostAccount(PostAccountModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.UsersApi\Features\Accounts\AccountsController.cs:line 29
+   at lambda_method557(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-29 23:16:43.928 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:16:43.953 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:16:43.956 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:16:43.957 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:16:43.957 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:17:33.836 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:17:33.858 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:17:33.861 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:17:33.861 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:17:33.861 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:20:56.509 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:20:56.528 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:20:56.530 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:20:56.530 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:20:56.530 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:20:56.682 +02:00 [ERR] HTTP POST /api/v1.0/accounts responded 500 in 168.6625 ms
+System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'passwordHash'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2928
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 519
+   at SFC.Processes.Features.UserRegistration.AccountRepository.Add(Account account) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Processes\Features\UserRegistration\AccountRepository.cs:line 19
+   at SFC.Processes.Features.UserRegistration.UserRegistrationHandler.Handle(RegisterUserCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Processes\Features\UserRegistration\UserRegistrationHandler.cs:line 44
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Infrastructure\Bus.cs:line 22
+   at SFC.UserApi.Features.Accounts.AccountsController.PostAccount(PostAccountModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.UsersApi\Features\Accounts\AccountsController.cs:line 29
+   at lambda_method540(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+ClientConnectionId:90cc17e5-3f1d-4157-b259-4078109567cf
+Error Number:207,State:1,Class:16
+2023-09-29 23:20:56.703 +02:00 [ERR] Connection id "0HMU167S395Q8", Request id "0HMU167S395Q8:00000002": An unhandled exception was thrown by the application.
+System.Data.SqlClient.SqlException (0x80131904): Invalid column name 'passwordHash'.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2928
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 519
+   at SFC.Processes.Features.UserRegistration.AccountRepository.Add(Account account) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Processes\Features\UserRegistration\AccountRepository.cs:line 19
+   at SFC.Processes.Features.UserRegistration.UserRegistrationHandler.Handle(RegisterUserCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Processes\Features\UserRegistration\UserRegistrationHandler.cs:line 44
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Infrastructure\Bus.cs:line 22
+   at SFC.UserApi.Features.Accounts.AccountsController.PostAccount(PostAccountModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.UsersApi\Features\Accounts\AccountsController.cs:line 29
+   at lambda_method540(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+ClientConnectionId:90cc17e5-3f1d-4157-b259-4078109567cf
+Error Number:207,State:1,Class:16
+2023-09-29 23:21:07.116 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:21:07.135 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:21:07.138 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:21:07.139 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:21:07.139 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:22:05.959 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:22:05.981 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:22:05.984 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:22:05.984 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:22:05.984 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:22:16.448 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 10474.4960 ms
+2023-09-29 23:23:24.339 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:23:24.359 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:23:24.361 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:23:24.361 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:23:24.362 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:23:27.889 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 3541.1842 ms
+2023-09-29 23:26:06.775 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:26:06.793 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:26:06.795 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:26:06.795 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:26:06.795 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:26:06.963 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 183.4947 ms
+2023-09-29 23:26:11.786 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:26:11.803 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:26:11.805 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:26:11.805 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:26:11.805 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:26:11.891 +02:00 [INF] HTTP POST /api/v1.0/user/ responded 200 in 97.2823 ms
+2023-09-29 23:26:11.930 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 25.9991 ms
+2023-09-29 23:26:12.085 +02:00 [ERR] Connection id "0HMU16AQ211CD", Request id "0HMU16AQ211CD:00000002": An unhandled exception was thrown by the application.
+Autofac.Core.Registration.ComponentNotRegisteredException: The requested service 'SFC.Infrastructure.Interfaces.IQueryHandler`2[[SFC.Accounts.Features.GetAccountByLoginName.GetAccountByLoginNameRequest, SFC.Accounts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[SFC.Accounts.Features.GetAccountByLoginName.GetAccountByLoginNameResponse, SFC.Accounts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' has not been registered. To avoid this exception, either register a component to provide the service, check for service registration using IsRegistered(), or use the ResolveOptional() method to resolve an optional dependency.
+
+See https://autofac.rtfd.io/help/service-not-registered for more info.
+   at Autofac.ResolutionExtensions.ResolveService(IComponentContext context, Service service, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve(IComponentContext context, Type serviceType, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve(IComponentContext context, Type serviceType)
+   at SFC.Infrastructure.Bus.Query[TResponse](IRequest`1 request) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Infrastructure\Bus.cs:line 41
+   at SFC.Processes.Features.UserRegistration.UserRegistrationHandler.Handle(RegisterUserCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Processes\Features\UserRegistration\UserRegistrationHandler.cs:line 30
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Infrastructure\Bus.cs:line 22
+   at SFC.UserApi.Features.Accounts.AccountsController.PostAccount(PostAccountModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.UsersApi\Features\Accounts\AccountsController.cs:line 29
+   at lambda_method550(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)

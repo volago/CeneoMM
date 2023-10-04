@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S/7BqTaVZ7UZl6e1CqlgNWSTAIe/JDULfW+j+PdflphLWodf7XWbYJcIH7tzq0QMga6CeyZDMaOpcdiSQuxGsg==",
+  "dgSpecHash": "dbMA5NhDBGeVX9kqMzVBZkKrtaejB4r4DLo7iKOKBdpPGB73/i2CX5WanjFfRi+KgDTkUZl/328X9WP10GukTQ==",
   "success": true,
-  "projectFilePath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj",
+  "projectFilePath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Infrastructure\\SFC.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szymek\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\szymek\\.nuget\\packages\\fluentmigrator\\3.3.2\\fluentmigrator.3.3.2.nupkg.sha512",

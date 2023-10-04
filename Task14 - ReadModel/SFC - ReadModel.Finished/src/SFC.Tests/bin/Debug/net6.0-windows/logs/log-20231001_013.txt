@@ -1,0 +1,9 @@
+2023-10-01 21:17:56.393 +02:00 [INF] Now listening on: http://localhost:6281
+2023-10-01 21:17:56.398 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-01 21:17:56.398 +02:00 [INF] Hosting environment: Production
+2023-10-01 21:17:56.398 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task14 - ReadModel\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-01 21:17:56.909 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 6.2670 ms
+2023-10-01 21:17:56.917 +02:00 [INF] HTTP POST /api/v1.0/accounts/3d3dea6a9e9843e9b790b7dadfdc27e3/confirmation responded 200 in 5.0403 ms
+2023-10-01 21:17:56.920 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 1.6465 ms
+2023-10-01 21:17:56.928 +02:00 [INF] HTTP POST /api/v1.0/sensors/fccaab19-2efd-407c-aa5e-40b63d106b64/measurements responded 200 in 5.5427 ms
+2023-10-01 21:17:56.938 +02:00 [INF] HTTP GET /api/v1.0/admin/alertNotificationsWithUserData responded 200 in 8.0909 ms

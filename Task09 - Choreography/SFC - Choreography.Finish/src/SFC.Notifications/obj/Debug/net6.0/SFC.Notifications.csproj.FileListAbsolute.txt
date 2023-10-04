@@ -1,0 +1,70 @@
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\bin\Debug\net6.0\SFC.Notifications.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\obj\Debug\net6.0\refint\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Notifications\obj\Debug\net6.0\ref\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\bin\Debug\net6.0\SFC.Notifications.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\obj\Debug\net6.0\refint\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Notifications\obj\Debug\net6.0\ref\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\bin\Debug\net6.0\SFC.Notifications.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\bin\Debug\net6.0\SFC.Alerts.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\bin\Debug\net6.0\SFC.Alerts.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\obj\Debug\net6.0\refint\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\obj\Debug\net6.0\ref\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\bin\Debug\net6.0\SFC.Notifications.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\obj\Debug\net6.0\refint\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\obj\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Notifications\obj\Debug\net6.0\ref\SFC.Notifications.dll

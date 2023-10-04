@@ -1,0 +1,175 @@
+2023-09-29 21:13:05.934 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 23.5869 ms
+2023-09-29 21:13:05.948 +02:00 [INF] HTTP POST /api/v1.0/sensors/9807cb68-0606-4a50-99eb-eb66e208c19b/measurements responded 404 in 0.0767 ms
+2023-09-29 21:13:24.445 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:13:24.465 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:13:24.467 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:13:24.467 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:13:24.468 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:13:24.625 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 177.2937 ms
+2023-09-29 21:13:24.642 +02:00 [INF] HTTP POST /api/v1.0/sensors/2a3f4b1f-524f-4e92-ab50-b84d163fdef7/measurements responded 404 in 0.1188 ms
+2023-09-29 21:13:35.371 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:13:35.392 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:13:35.402 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:13:35.402 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:13:35.403 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:13:35.630 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 251.7127 ms
+2023-09-29 21:13:35.726 +02:00 [INF] HTTP POST /api/v1.0/sensors/b985b78a-7618-4551-81e9-3679fb068566/measurements responded 404 in 0.1193 ms
+2023-09-29 21:13:49.147 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:13:49.167 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:13:49.170 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:13:49.170 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:13:49.170 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:13:49.381 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 220.4625 ms
+2023-09-29 21:13:49.412 +02:00 [INF] HTTP POST /api/v1.0/sensors/4c188073-0a7c-4bb7-a122-1a051be3310b/measurements responded 404 in 0.0906 ms
+2023-09-29 21:16:26.233 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:16:26.253 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:16:26.255 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:16:26.256 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:16:26.256 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:16:26.421 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 185.7905 ms
+2023-09-29 21:16:26.462 +02:00 [INF] HTTP POST /api/v1.0/sensors/9cabdcc6-76c0-438d-976a-f8c784298815/measurements responded 200 in 23.1707 ms
+2023-09-29 21:16:42.992 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:16:43.012 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:16:43.014 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:16:43.014 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:16:43.014 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:22:43.644 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:22:43.662 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:22:43.664 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:22:43.664 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:22:43.664 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:22:43.757 +02:00 [ERR] HTTP POST /api/v1.0/user/alerts responded 500 in 105.4970 ms
+SFC.Notifications.Features.SendNotification.Contract.UserNotFoundException: Bugs Bunny
+   at SFC.Notifications.Features.SendNotification.SendNotificationHandler.Handle(SendNotificationCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\Features\SendNotification\SendNotificationHandler.cs:line 36
+   at SFC.Notifications.Features.SendNotification.SendNotificationHandler.Handle(AlertCreatedEvent ev) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\Features\SendNotification\SendNotificationHandler.cs:line 53
+   at SFC.Infrastructure.Bus.Publish[T](T event) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure\Bus.cs:line 31
+   at SFC.Alerts.Features.RegisterAlertCondition.RegisterAlertConditionHandler.Handle(CreateAlertCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Alerts\Features\RegisterAlertCondition\RegisterAlertConditionHandler.cs:line 27
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure\Bus.cs:line 21
+   at SFC.UserApi.Features.Alerts.AlertsController.Post(PostAlertModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.UsersApi\Features\Alerts\AlertsController.cs:line 32
+   at lambda_method513(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-09-29 21:22:43.776 +02:00 [ERR] Connection id "0HMU145Q8EJJR", Request id "0HMU145Q8EJJR:00000002": An unhandled exception was thrown by the application.
+SFC.Notifications.Features.SendNotification.Contract.UserNotFoundException: Bugs Bunny
+   at SFC.Notifications.Features.SendNotification.SendNotificationHandler.Handle(SendNotificationCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\Features\SendNotification\SendNotificationHandler.cs:line 36
+   at SFC.Notifications.Features.SendNotification.SendNotificationHandler.Handle(AlertCreatedEvent ev) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Notifications\Features\SendNotification\SendNotificationHandler.cs:line 53
+   at SFC.Infrastructure.Bus.Publish[T](T event) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure\Bus.cs:line 31
+   at SFC.Alerts.Features.RegisterAlertCondition.RegisterAlertConditionHandler.Handle(CreateAlertCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Alerts\Features\RegisterAlertCondition\RegisterAlertConditionHandler.cs:line 27
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure\Bus.cs:line 21
+   at SFC.UserApi.Features.Alerts.AlertsController.Post(PostAlertModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.UsersApi\Features\Alerts\AlertsController.cs:line 32
+   at lambda_method513(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-29 21:36:07.438 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:36:07.459 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:36:07.461 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:36:07.462 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:36:07.462 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:36:07.581 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 90.4555 ms
+2023-09-29 21:36:51.181 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:36:51.209 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:36:51.221 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:36:51.221 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:36:51.222 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:37:46.429 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 55150.7717 ms
+2023-09-29 21:38:28.827 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:38:28.863 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:38:28.867 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:38:28.868 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:38:28.868 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:39:27.749 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 58824.4662 ms
+2023-09-29 21:40:39.512 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:40:39.533 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:40:39.535 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:40:39.536 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:40:39.536 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:40:39.642 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 79.3550 ms
+2023-09-29 21:42:14.672 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:42:14.691 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:42:14.693 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:42:14.694 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:42:14.694 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:42:14.801 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 81.0847 ms
+2023-09-29 21:43:21.603 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:43:21.635 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:43:21.641 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:43:21.642 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:43:21.642 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:44:54.414 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:44:54.432 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:44:54.434 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:44:54.434 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:44:54.434 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:44:54.548 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 83.2885 ms
+2023-09-29 21:45:02.317 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 21:45:02.334 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 21:45:02.336 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 21:45:02.336 +02:00 [INF] Hosting environment: Production
+2023-09-29 21:45:02.336 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 21:45:02.398 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 76.5557 ms
+2023-09-29 21:45:02.429 +02:00 [INF] HTTP POST /api/v1.0/sensors/b2258092-c003-4965-b63e-edb1c00891ea/measurements responded 200 in 16.3961 ms
+2023-09-29 21:45:02.520 +02:00 [ERR] Connection id "0HMU14I971R1N", Request id "0HMU14I971R1N:00000002": An unhandled exception was thrown by the application.
+Autofac.Core.Registration.ComponentNotRegisteredException: The requested service 'SFC.Infrastructure.Interfaces.ICommandHandler`1[[SFC.Alerts.Features.RegisterAlertCondition.Contract.CreateAlertCommand, SFC.Alerts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' has not been registered. To avoid this exception, either register a component to provide the service, check for service registration using IsRegistered(), or use the ResolveOptional() method to resolve an optional dependency.
+
+See https://autofac.rtfd.io/help/service-not-registered for more info.
+   at Autofac.ResolutionExtensions.ResolveService(IComponentContext context, Service service, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve(IComponentContext context, Type serviceType, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve(IComponentContext context, Type serviceType)
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.Infrastructure\Bus.cs:line 21
+   at SFC.UserApi.Features.Alerts.AlertsController.Post(PostAlertModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Start\src\SFC.UsersApi\Features\Alerts\AlertsController.cs:line 32
+   at lambda_method527(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)

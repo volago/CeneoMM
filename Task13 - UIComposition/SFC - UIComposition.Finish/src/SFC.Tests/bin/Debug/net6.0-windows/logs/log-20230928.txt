@@ -1,0 +1,43 @@
+2023-09-28 23:02:02.603 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 23:02:02.602 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 404 in 1.2905 ms
+2023-09-28 23:02:02.621 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 23:02:02.623 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 23:02:02.624 +02:00 [INF] Hosting environment: Production
+2023-09-28 23:02:02.624 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 23:03:00.114 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 23:03:00.131 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 404 in 2.4949 ms
+2023-09-28 23:03:00.143 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 23:03:00.149 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 23:03:00.149 +02:00 [INF] Hosting environment: Production
+2023-09-28 23:03:00.150 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 23:05:46.826 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 23:05:46.847 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 23:05:46.850 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 23:05:46.850 +02:00 [INF] Hosting environment: Production
+2023-09-28 23:05:46.850 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 23:06:03.368 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 16529.9011 ms
+2023-09-28 23:07:09.095 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 23:07:09.116 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 23:07:09.118 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 23:07:09.119 +02:00 [INF] Hosting environment: Production
+2023-09-28 23:07:09.119 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 23:07:25.917 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 16809.0757 ms
+2023-09-28 23:07:27.908 +02:00 [INF] HTTP POST /api/v1.0/sensors/0dc1d277-d3ab-49f2-aa05-47df4cb7f213/measurements responded 200 in 24.3201 ms
+2023-09-28 23:09:06.729 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 23:09:06.734 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 404 in 1.0328 ms
+2023-09-28 23:09:06.747 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 23:09:06.750 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 23:09:06.750 +02:00 [INF] Hosting environment: Production
+2023-09-28 23:09:06.750 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 23:09:21.545 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 23:09:21.555 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 404 in 1.3814 ms
+2023-09-28 23:09:21.569 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 23:09:21.577 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 23:09:21.578 +02:00 [INF] Hosting environment: Production
+2023-09-28 23:09:21.578 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 23:10:01.191 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 23:10:01.208 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 23:10:01.211 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 23:10:01.211 +02:00 [INF] Hosting environment: Production
+2023-09-28 23:10:01.211 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 23:10:01.416 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 218.3267 ms

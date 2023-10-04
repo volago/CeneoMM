@@ -1,0 +1,21 @@
+2023-10-04 12:35:49.458 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-04 12:35:49.480 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-04 12:35:49.482 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-04 12:35:49.482 +02:00 [INF] Hosting environment: Production
+2023-10-04 12:35:49.482 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-04 12:35:49.749 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 271.4121 ms
+2023-10-04 12:35:49.808 +02:00 [INF] HTTP POST /api/v1.0/sensors/37e4db68-13f3-4c48-b73d-da01688b2b35/measurements responded 200 in 29.1139 ms
+2023-10-04 12:36:19.314 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-04 12:36:19.331 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-04 12:36:19.333 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-04 12:36:19.333 +02:00 [INF] Hosting environment: Production
+2023-10-04 12:36:19.333 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-04 12:36:19.418 +02:00 [INF] HTTP POST /api/v1.0/user/ responded 200 in 99.2698 ms
+2023-10-04 12:36:19.455 +02:00 [INF] HTTP POST /api/v1.0/user/alerts responded 201 in 24.3942 ms
+2023-10-04 12:36:34.186 +02:00 [INF] Now listening on: http://localhost:5000
+2023-10-04 12:36:34.203 +02:00 [INF] Now listening on: https://localhost:5001
+2023-10-04 12:36:34.205 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-10-04 12:36:34.205 +02:00 [INF] Hosting environment: Production
+2023-10-04 12:36:34.205 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task09 - Choreography\SFC - Choreography.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-10-04 12:36:34.376 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 181.3628 ms
+2023-10-04 12:36:34.409 +02:00 [INF] HTTP POST /api/v1.0/sensors/fe996b38-e4fa-4c26-9443-1c189c94dc30/measurements responded 200 in 17.7097 ms

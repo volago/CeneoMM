@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6hg/Ly7VPqqCjwpVkm8k/5FduhY/ZhyODcoxNWk3ibeg5X0hc8dudverD0EOOj3sdEF5A8U5AphNa7CW++qixg==",
+  "dgSpecHash": "89g1sAkvWgoQsfdgJXltsjym4rSNKANYqDNBsPmpYs4IrI3TAWlb4b8fOOp8tAQXtH93D2zqtzqNvjZMu2KIFg==",
   "success": true,
-  "projectFilePath": "C:\\My\\Trainings\\CeneoMM\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj",
+  "projectFilePath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task09 - Choreography\\SFC - Choreography.Start\\src\\SFC.Notifications\\SFC.Notifications.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szymek\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\szymek\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",

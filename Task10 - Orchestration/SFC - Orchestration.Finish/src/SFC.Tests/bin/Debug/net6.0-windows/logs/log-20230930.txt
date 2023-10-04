@@ -1,0 +1,23 @@
+2023-09-30 00:00:17.126 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-30 00:00:17.154 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-30 00:00:17.161 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-30 00:00:17.162 +02:00 [INF] Hosting environment: Production
+2023-09-30 00:00:17.162 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-30 00:00:17.281 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 144.2844 ms
+2023-09-30 00:00:17.334 +02:00 [INF] HTTP POST /api/v1.0/accounts/d30faa5287604a06b118dfd28187172f/confirmation responded 200 in 25.6995 ms
+2023-09-30 00:00:20.246 +02:00 [INF] HTTP GET /api/v1.0/user/alerts responded 200 in 23.5545 ms
+2023-09-30 00:01:17.592 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-30 00:01:17.615 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-30 00:01:17.617 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-30 00:01:17.617 +02:00 [INF] Hosting environment: Production
+2023-09-30 00:01:17.617 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-30 00:01:17.752 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 142.1597 ms
+2023-09-30 00:02:04.117 +02:00 [INF] HTTP POST /api/v1.0/accounts/9d21951fb0d148ef908b80b461501119/confirmation responded 200 in 46333.2805 ms
+2023-09-30 00:07:31.900 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-30 00:07:31.918 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-30 00:07:31.927 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-30 00:07:31.928 +02:00 [INF] Hosting environment: Production
+2023-09-30 00:07:31.928 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-30 00:07:32.070 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 162.5958 ms
+2023-09-30 00:07:39.605 +02:00 [INF] HTTP POST /api/v1.0/accounts/8b03722d7ee04f668d37143a2f007a7b/confirmation responded 200 in 7498.2129 ms
+2023-09-30 00:07:41.241 +02:00 [INF] HTTP GET /api/v1.0/user/alerts responded 200 in 29.8153 ms

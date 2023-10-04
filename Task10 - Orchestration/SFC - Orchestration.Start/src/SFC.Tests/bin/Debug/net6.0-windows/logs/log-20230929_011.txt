@@ -1,0 +1,166 @@
+2023-09-29 23:30:25.799 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 8.1710 ms
+2023-09-29 23:30:25.814 +02:00 [INF] HTTP POST /api/v1.0/sensors/e470045b-a1e7-4559-8e2a-34eef3ae24cc/measurements responded 404 in 0.0670 ms
+2023-09-29 23:35:51.276 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:35:51.295 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:35:51.297 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:35:51.297 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:35:51.297 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:35:51.475 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 191.5854 ms
+2023-09-29 23:36:04.575 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:36:04.594 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:36:04.601 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:36:04.602 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:36:04.602 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:36:04.811 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 228.9348 ms
+2023-09-29 23:36:49.559 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:36:49.581 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:36:49.583 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:36:49.583 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:36:49.583 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:36:49.811 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 236.4031 ms
+2023-09-29 23:36:58.896 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:36:58.921 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:36:58.924 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:36:58.925 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:36:58.925 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:36:59.139 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 228.9155 ms
+2023-09-29 23:38:25.750 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:38:25.770 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:38:25.772 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:38:25.772 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:38:25.772 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:38:26.007 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 246.6068 ms
+2023-09-29 23:38:56.845 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:38:56.875 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:38:56.917 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:38:56.917 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:38:56.917 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:38:57.152 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 297.6183 ms
+2023-09-29 23:39:25.338 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:39:25.359 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:39:25.362 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:39:25.362 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:39:25.362 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:39:25.597 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 233.3995 ms
+2023-09-29 23:44:23.221 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:44:23.239 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:44:23.242 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:44:23.242 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:44:23.242 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:44:23.411 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 183.3887 ms
+2023-09-29 23:50:33.335 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:50:33.354 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:50:33.356 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:50:33.356 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:50:33.357 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:50:33.409 +02:00 [ERR] HTTP POST /api/v1.0/accounts responded 500 in 62.7639 ms
+Autofac.Core.Registration.ComponentNotRegisteredException: The requested service 'SFC.Infrastructure.Interfaces.IQueryHandler`2[[SFC.Accounts.Features.GetAccountByLoginName.GetAccountByLoginNameRequest, SFC.Accounts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[SFC.Accounts.Features.GetAccountByLoginName.GetAccountByLoginNameResponse, SFC.Accounts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' has not been registered. To avoid this exception, either register a component to provide the service, check for service registration using IsRegistered(), or use the ResolveOptional() method to resolve an optional dependency.
+
+See https://autofac.rtfd.io/help/service-not-registered for more info.
+   at Autofac.ResolutionExtensions.ResolveService(IComponentContext context, Service service, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve(IComponentContext context, Type serviceType, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve(IComponentContext context, Type serviceType)
+   at SFC.Infrastructure.Bus.Query[TResponse](IRequest`1 request) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Infrastructure\Bus.cs:line 41
+   at SFC.Processes.Features.UserRegistration.UserRegistrationHandler.Handle(RegisterUserCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Processes\Features\UserRegistration\UserRegistrationHandler.cs:line 30
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Infrastructure\Bus.cs:line 22
+   at SFC.UserApi.Features.Accounts.AccountsController.PostAccount(PostAccountModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.UsersApi\Features\Accounts\AccountsController.cs:line 29
+   at lambda_method541(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-09-29 23:50:33.428 +02:00 [ERR] Connection id "0HMU16ODKF3AF", Request id "0HMU16ODKF3AF:00000002": An unhandled exception was thrown by the application.
+Autofac.Core.Registration.ComponentNotRegisteredException: The requested service 'SFC.Infrastructure.Interfaces.IQueryHandler`2[[SFC.Accounts.Features.GetAccountByLoginName.GetAccountByLoginNameRequest, SFC.Accounts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[SFC.Accounts.Features.GetAccountByLoginName.GetAccountByLoginNameResponse, SFC.Accounts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]' has not been registered. To avoid this exception, either register a component to provide the service, check for service registration using IsRegistered(), or use the ResolveOptional() method to resolve an optional dependency.
+
+See https://autofac.rtfd.io/help/service-not-registered for more info.
+   at Autofac.ResolutionExtensions.ResolveService(IComponentContext context, Service service, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve(IComponentContext context, Type serviceType, IEnumerable`1 parameters)
+   at Autofac.ResolutionExtensions.Resolve(IComponentContext context, Type serviceType)
+   at SFC.Infrastructure.Bus.Query[TResponse](IRequest`1 request) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Infrastructure\Bus.cs:line 41
+   at SFC.Processes.Features.UserRegistration.UserRegistrationHandler.Handle(RegisterUserCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Processes\Features\UserRegistration\UserRegistrationHandler.cs:line 30
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Infrastructure\Bus.cs:line 22
+   at SFC.UserApi.Features.Accounts.AccountsController.PostAccount(PostAccountModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.UsersApi\Features\Accounts\AccountsController.cs:line 29
+   at lambda_method541(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-29 23:50:42.536 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:50:42.559 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:50:42.562 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:50:42.562 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:50:42.562 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:51:50.679 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:51:50.701 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:51:50.703 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:51:50.703 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:51:50.703 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:51:50.859 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 164.3858 ms
+2023-09-29 23:52:33.941 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:52:33.962 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:52:33.964 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:52:33.964 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:52:33.964 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:52:34.091 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 136.3863 ms
+2023-09-29 23:53:16.223 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:53:16.245 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:53:16.247 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:53:16.247 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:53:16.247 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:53:16.404 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 167.0035 ms
+2023-09-29 23:53:50.906 +02:00 [INF] HTTP POST /api/v1.0/accounts/0e50511cbdd84fdf9e9205166983c371/confirmation responded 200 in 34469.2798 ms
+2023-09-29 23:54:42.319 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:54:42.341 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:54:42.344 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:54:42.344 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:54:42.344 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:54:42.498 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 132.9094 ms
+2023-09-29 23:54:47.323 +02:00 [INF] HTTP POST /api/v1.0/accounts/5bdd3e564fb44f50a4813118f91d0218/confirmation responded 200 in 4794.6368 ms
+2023-09-29 23:55:10.207 +02:00 [INF] HTTP GET /api/v1.0/user/alerts responded 200 in 22874.4015 ms
+2023-09-29 23:56:02.922 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:56:02.949 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:56:02.951 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:56:02.951 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:56:02.951 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:56:03.112 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 172.8007 ms
+2023-09-29 23:56:03.174 +02:00 [INF] HTTP POST /api/v1.0/accounts/ed5e1037ac244faca5c38e3f945b021b/confirmation responded 200 in 31.8908 ms
+2023-09-29 23:56:07.584 +02:00 [INF] HTTP GET /api/v1.0/user/alerts responded 200 in 2573.6150 ms
+2023-09-29 23:57:15.604 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-29 23:57:15.627 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-29 23:57:15.629 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-29 23:57:15.629 +02:00 [INF] Hosting environment: Production
+2023-09-29 23:57:15.629 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task10 - Orchestration\SFC - Orchestration.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-29 23:57:15.778 +02:00 [INF] HTTP POST /api/v1.0/accounts responded 201 in 157.8733 ms
+2023-09-29 23:57:15.836 +02:00 [INF] HTTP POST /api/v1.0/accounts/f655973ce3624c3fbe0b494dbc686bad/confirmation responded 200 in 29.7573 ms
+2023-09-29 23:57:17.591 +02:00 [INF] HTTP GET /api/v1.0/user/alerts responded 200 in 29.1901 ms
