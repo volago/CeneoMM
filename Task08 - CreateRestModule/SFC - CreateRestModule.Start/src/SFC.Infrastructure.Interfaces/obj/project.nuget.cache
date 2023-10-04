@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8tqKh1mDlHaTpA3Y4y6v8NC8xGsq2/QFsqRqhEv5PAqMJTMGmk6YXwLrzOgt6R1N6cdKQ0v1v6CMxAS/AFVoDQ==",
+  "dgSpecHash": "xT3NsZ9mRE5jD+w271RK2kK3MXAQAwdwdA3zNC8g6T8QofUeOUQU7Ebca+Q+uUd/L81W539Da9gZZBgZaObxzw==",
   "success": true,
-  "projectFilePath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj",
+  "projectFilePath": "C:\\My\\Trainings\\CeneoMM\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Infrastructure.Interfaces\\SFC.Infrastructure.Interfaces.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

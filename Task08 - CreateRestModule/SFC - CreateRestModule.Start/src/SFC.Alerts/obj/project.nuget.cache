@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lHSTXW2VahjkVyesPd39v/lC5d9y46XyQE9JvZ0Wt3jhJYjokEsS9zFpH8+oGPrTyfsfyUBamOerJAE/qqFZiw==",
+  "dgSpecHash": "fUarvOCDgIM25gSndXqgugXCvoReXgHy6s1oyVXqPP1MrSr3DRQQhCdBfHlt0vzK1uMC4xeO9FKLPjq6TWGVKg==",
   "success": true,
-  "projectFilePath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj",
+  "projectFilePath": "C:\\My\\Trainings\\CeneoMM\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Alerts\\SFC.Alerts.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szymek\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\szymek\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X8KP8xT2/jSC0MKwmbGea0f5AN7wZ0eLYsRXLaMsEfTGnnTvq+zKuUQnQWzbRPHewhncsPHjYxg2xWErbh4Y6A==",
+  "dgSpecHash": "vkhC+nkc11f0qU8936jCBkSsx6sR1tMIhYX7s42UtjmswYrLPf0xup3G+ApZEkvzXJT+Im1gEiIuQcSA+u+bXw==",
   "success": true,
-  "projectFilePath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj",
+  "projectFilePath": "C:\\My\\Trainings\\CeneoMM\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.Sensors\\SFC.Sensors.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\szymek\\.nuget\\packages\\autofac\\7.1.0\\autofac.7.1.0.nupkg.sha512",
     "C:\\Users\\szymek\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",

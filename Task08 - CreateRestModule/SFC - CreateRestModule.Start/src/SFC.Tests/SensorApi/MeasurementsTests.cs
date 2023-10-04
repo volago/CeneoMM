@@ -1,7 +1,6 @@
 ﻿using Autofac;
 using Microsoft.Extensions.Configuration;
 using RestEase;
-using SFC.Accounts;
 using SFC.Alerts;
 using SFC.Infrastructure;
 using SFC.Notifications;
@@ -42,7 +41,6 @@ namespace SFC.Tests.SensorApi
           new AutofacAlertsModule(),          
           new AutofacNotificationsModule(),
           new AutofacSensorsModule(),
-          new AutofacAccountsModule(),
           new AutofacInfrastructureModule()
         },
         builder =>

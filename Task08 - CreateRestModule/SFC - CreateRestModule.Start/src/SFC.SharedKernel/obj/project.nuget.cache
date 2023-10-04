@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XQWg2Dr+IRp6qAzb05Pn94UiOLEtXZPMr4bZIkdywUQJhMG3dy23Bdpm0l/kIw1eyYFImcJhHDVEEZyb85VYcA==",
+  "dgSpecHash": "bKEebkk4xzmTrfj15O0VqF4qQLUaJVylEwV+KIt6sSIBvF7MW46wjKJWf7gp+pRp9ppP2uoRl/0oXO6YPhe9Yg==",
   "success": true,
-  "projectFilePath": "C:\\My\\Trainings\\Cwiczenia-ModularMonolith\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
+  "projectFilePath": "C:\\My\\Trainings\\CeneoMM\\Task08 - CreateRestModule\\SFC - CreateRestModule.Start\\src\\SFC.SharedKernel\\SFC.SharedKernel.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

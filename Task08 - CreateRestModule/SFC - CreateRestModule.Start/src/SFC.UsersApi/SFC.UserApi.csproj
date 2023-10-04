@@ -16,7 +16,6 @@
     <ProjectReference Include="..\SFC.Alerts\SFC.Alerts.csproj" />
     <ProjectReference Include="..\SFC.Infrastructure\SFC.Infrastructure.csproj" />
     <ProjectReference Include="..\SFC.Notifications\SFC.Notifications.csproj" />
-    <ProjectReference Include="..\SFC.Processes\SFC.Processes.csproj" />
     <ProjectReference Include="..\SFC.Sensors\SFC.Sensors.csproj" />
     <ProjectReference Include="..\SFC.SharedKernel\SFC.SharedKernel.csproj" />
   </ItemGroup>

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SFC.Tests
-build_property.ProjectDir = C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Tests\
+build_property.ProjectDir = C:\My\Trainings\CeneoMM\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Tests\

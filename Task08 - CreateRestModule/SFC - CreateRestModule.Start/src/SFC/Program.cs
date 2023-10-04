@@ -3,7 +3,6 @@ using Autofac;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
-using SFC.Accounts;
 using SFC.Alerts;
 using SFC.Infrastructure;
 using SFC.Infrastructure.Interfaces;
@@ -32,7 +31,6 @@ namespace SFC
         new AutofacAlertsModule(),
         new AutofacNotificationsModule(),
         new AutofacSensorsModule(),
-        new AutofacAccountsModule(),
         new AutofacInfrastructureModule()
     });
 
