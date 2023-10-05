@@ -1,0 +1,455 @@
+2023-09-28 21:53:14.062 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 21:53:14.071 +02:00 [INF] HTTP POST /api/v1.0/sensor/7aea7e9b-4dea-4cb4-933a-46cad712d587/measurements responded 404 in 1.1929 ms
+2023-09-28 21:53:14.080 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 21:53:14.084 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 21:53:14.084 +02:00 [INF] Hosting environment: Production
+2023-09-28 21:53:14.085 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 21:53:47.877 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 21:53:47.894 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 21:53:47.896 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 21:53:47.896 +02:00 [INF] Hosting environment: Production
+2023-09-28 21:53:47.896 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 21:53:47.961 +02:00 [ERR] HTTP POST /api/v1.0/sensors/d61b8b30-4332-4c97-becb-50dc74b2f1b3/measurements responded 500 in 74.0037 ms
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at SFC.SharedKernel.ValueObject.Equals(ValueObject other) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SharedKernel\ValueObject.cs:line 22
+   at SFC.SharedKernel.ValueObject.Equals(Object obj) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SharedKernel\ValueObject.cs:line 36
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector)
+   at SFC.SensorApi.MeasurementsController.Post(Guid sensorId, PostMeasurementModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SensorApi\MeasurementsController.cs:line 25
+   at lambda_method516(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-09-28 21:53:47.991 +02:00 [ERR] Connection id "0HMU0BIGKJPQ1", Request id "0HMU0BIGKJPQ1:00000002": An unhandled exception was thrown by the application.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at SFC.SharedKernel.ValueObject.Equals(ValueObject other) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SharedKernel\ValueObject.cs:line 22
+   at SFC.SharedKernel.ValueObject.Equals(Object obj) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SharedKernel\ValueObject.cs:line 36
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector)
+   at SFC.SensorApi.MeasurementsController.Post(Guid sensorId, PostMeasurementModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SensorApi\MeasurementsController.cs:line 25
+   at lambda_method516(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-28 21:53:53.704 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 21:53:53.725 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 21:53:53.727 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 21:53:53.727 +02:00 [INF] Hosting environment: Production
+2023-09-28 21:53:53.727 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 21:54:16.979 +02:00 [ERR] HTTP POST /api/v1.0/sensors/be62f0a3-b2d5-477e-9a86-14beb2f78dc4/measurements responded 500 in 23261.7987 ms
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at SFC.SharedKernel.ValueObject.Equals(ValueObject other) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SharedKernel\ValueObject.cs:line 22
+   at SFC.SharedKernel.ValueObject.Equals(Object obj) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SharedKernel\ValueObject.cs:line 36
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector)
+   at SFC.SensorApi.MeasurementsController.Post(Guid sensorId, PostMeasurementModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SensorApi\MeasurementsController.cs:line 25
+   at lambda_method540(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-09-28 21:54:17.002 +02:00 [ERR] Connection id "0HMU0BIIC21PS", Request id "0HMU0BIIC21PS:00000002": An unhandled exception was thrown by the application.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at SFC.SharedKernel.ValueObject.Equals(ValueObject other) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SharedKernel\ValueObject.cs:line 22
+   at SFC.SharedKernel.ValueObject.Equals(Object obj) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SharedKernel\ValueObject.cs:line 36
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector)
+   at SFC.SensorApi.MeasurementsController.Post(Guid sensorId, PostMeasurementModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SensorApi\MeasurementsController.cs:line 25
+   at lambda_method540(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-28 21:54:45.473 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 21:54:45.494 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 21:54:45.496 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 21:54:45.496 +02:00 [INF] Hosting environment: Production
+2023-09-28 21:54:45.496 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:11:16.582 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:11:16.602 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:11:16.605 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:11:16.605 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:11:16.605 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:11:43.398 +02:00 [ERR] HTTP POST /api/v1.0/sensors/96413ca3-b72c-4d0e-a467-7110a42eb38e/measurements responded 500 in 26805.5824 ms
+System.ArgumentException: An item with the same key has already been added. Key: 
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector)
+   at SFC.SensorApi.MeasurementsController.Post(Guid sensorId, PostMeasurementModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SensorApi\MeasurementsController.cs:line 25
+   at lambda_method540(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-09-28 22:11:43.417 +02:00 [ERR] Connection id "0HMU0BS95P0MO", Request id "0HMU0BS95P0MO:00000002": An unhandled exception was thrown by the application.
+System.ArgumentException: An item with the same key has already been added. Key: 
+   at System.Collections.Generic.Dictionary`2.TryInsert(TKey key, TValue value, InsertionBehavior behavior)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector, IEqualityComparer`1 comparer)
+   at System.Linq.Enumerable.ToDictionary[TSource,TKey,TElement](IEnumerable`1 source, Func`2 keySelector, Func`2 elementSelector)
+   at SFC.SensorApi.MeasurementsController.Post(Guid sensorId, PostMeasurementModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SensorApi\MeasurementsController.cs:line 25
+   at lambda_method540(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-28 22:12:10.455 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:12:10.474 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:12:10.476 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:12:10.476 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:12:10.476 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:12:54.455 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:12:54.474 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:12:54.476 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:12:54.476 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:12:54.477 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:14:57.881 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:14:57.903 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:14:57.905 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:14:57.905 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:14:57.905 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:16:22.706 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:16:22.727 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:16:22.729 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:16:22.729 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:16:22.729 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:26:20.130 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:26:20.162 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:26:20.165 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:26:20.165 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:26:20.165 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:28:10.557 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:28:10.575 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:28:10.577 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:28:10.577 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:28:10.577 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:28:10.736 +02:00 [ERR] HTTP POST /api/v1.0/sensors/2c6debe5-13a6-4529-a69d-7bbcc2480e40/measurements responded 500 in 171.7947 ms
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlTypes.SqlDateTime..ctor(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2928
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 519
+   at SFC.Sensors.Infrastructure.MeasurementRepository.Add(Guid sensorId, DateTime date, ElementName elementName, Decimal elementValue) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\Infrastructure\MeasurementRepository.cs:line 23
+   at SFC.Sensors.Features.RegisterMeasurement.RegisterMeasurementHandler.Handle(RegisterMeasurementCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\Features\RegisterMeasurement\RegisterMeasurementHandler.cs:line 26
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Infrastructure\Bus.cs:line 21
+   at SFC.SensorApi.MeasurementsController.Post(Guid sensorId, PostMeasurementModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SensorApi\MeasurementsController.cs:line 27
+   at lambda_method516(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2023-09-28 22:28:10.753 +02:00 [ERR] Connection id "0HMU0C5NBR6AD", Request id "0HMU0C5NBR6AD:00000002": An unhandled exception was thrown by the application.
+System.Data.SqlTypes.SqlTypeException: SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+   at System.Data.SqlTypes.SqlDateTime.FromTimeSpan(TimeSpan value)
+   at System.Data.SqlTypes.SqlDateTime.FromDateTime(DateTime value)
+   at System.Data.SqlTypes.SqlDateTime..ctor(DateTime value)
+   at System.Data.SqlClient.MetaType.FromDateTime(DateTime dateTime, Byte cb)
+   at System.Data.SqlClient.TdsParser.WriteUnterminatedValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.WriteValue(Object value, MetaType type, Byte scale, Int32 actualLength, Int32 encodingByteSize, Int32 offset, TdsParserStateObject stateObj, Int32 paramSize, Boolean isDataFeed)
+   at System.Data.SqlClient.TdsParser.TDSExecuteRPCAddParameter(TdsParserStateObject stateObj, SqlParameter param, MetaType mt, Byte options)
+   at System.Data.SqlClient.TdsParser.TdsExecuteRPC(_SqlRPC[] rpcArray, Int32 timeout, Boolean inSchema, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj, Boolean isCommandProc, Boolean sync, TaskCompletionSource`1 completion, Int32 startRpc, Int32 startParam)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2928
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 519
+   at SFC.Sensors.Infrastructure.MeasurementRepository.Add(Guid sensorId, DateTime date, ElementName elementName, Decimal elementValue) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\Infrastructure\MeasurementRepository.cs:line 23
+   at SFC.Sensors.Features.RegisterMeasurement.RegisterMeasurementHandler.Handle(RegisterMeasurementCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\Features\RegisterMeasurement\RegisterMeasurementHandler.cs:line 26
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Infrastructure\Bus.cs:line 21
+   at SFC.SensorApi.MeasurementsController.Post(Guid sensorId, PostMeasurementModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SensorApi\MeasurementsController.cs:line 27
+   at lambda_method516(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+2023-09-28 22:28:23.685 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:28:23.706 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:28:23.709 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:28:23.709 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:28:23.709 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:29:16.912 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:29:16.931 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:29:16.933 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:29:16.934 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:29:16.934 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:29:17.108 +02:00 [ERR] HTTP POST /api/v1.0/sensors/05883c99-b743-4de3-b944-09060946b060/measurements responded 500 in 186.4644 ms
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Measurements_Sensors". The conflict occurred in database "SFC_Test", table "Sensors.Sensors", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2928
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 519
+   at SFC.Sensors.Infrastructure.MeasurementRepository.Add(Guid sensorId, DateTime date, ElementName elementName, Decimal elementValue) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\Infrastructure\MeasurementRepository.cs:line 23
+   at SFC.Sensors.Features.RegisterMeasurement.RegisterMeasurementHandler.Handle(RegisterMeasurementCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\Features\RegisterMeasurement\RegisterMeasurementHandler.cs:line 26
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Infrastructure\Bus.cs:line 21
+   at SFC.SensorApi.MeasurementsController.Post(Guid sensorId, PostMeasurementModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SensorApi\MeasurementsController.cs:line 27
+   at lambda_method516(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+ClientConnectionId:aac3d5b2-a509-49dd-83cf-a21c7bdf2084
+Error Number:547,State:0,Class:16
+2023-09-28 22:29:17.132 +02:00 [ERR] Connection id "0HMU0C6B4LHD3", Request id "0HMU0C6B4LHD3:00000002": An unhandled exception was thrown by the application.
+System.Data.SqlClient.SqlException (0x80131904): The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Measurements_Sensors". The conflict occurred in database "SFC_Test", table "Sensors.Sensors", column 'Id'.
+The statement has been terminated.
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, SqlDataReader ds)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean asyncWrite, String method)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite, String methodName)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader) in /_/Dapper/SqlMapper.cs:line 2928
+   at Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command) in /_/Dapper/SqlMapper.cs:line 648
+   at Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType) in /_/Dapper/SqlMapper.cs:line 519
+   at SFC.Sensors.Infrastructure.MeasurementRepository.Add(Guid sensorId, DateTime date, ElementName elementName, Decimal elementValue) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\Infrastructure\MeasurementRepository.cs:line 23
+   at SFC.Sensors.Features.RegisterMeasurement.RegisterMeasurementHandler.Handle(RegisterMeasurementCommand command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\Features\RegisterMeasurement\RegisterMeasurementHandler.cs:line 26
+   at SFC.Infrastructure.Bus.Send[T](T command) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Infrastructure\Bus.cs:line 21
+   at SFC.SensorApi.MeasurementsController.Post(Guid sensorId, PostMeasurementModel model) in C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.SensorApi\MeasurementsController.cs:line 27
+   at lambda_method516(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.ProcessRequests[TContext](IHttpApplication`1 application)
+ClientConnectionId:aac3d5b2-a509-49dd-83cf-a21c7bdf2084
+Error Number:547,State:0,Class:16
+2023-09-28 22:29:24.587 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:29:24.607 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:29:24.610 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:29:24.610 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:29:24.610 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:39:12.546 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:39:12.556 +02:00 [INF] HTTP POST /api/v1.0/user/6c71918b-2067-449b-8f62-cba11c0569fe/sensors/d1f67ca0-e7b8-4f45-890c-d98bebb7c07b responded 404 in 2.2176 ms
+2023-09-28 22:39:12.569 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:39:12.577 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:39:12.577 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:39:12.577 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:39:40.067 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:39:40.079 +02:00 [INF] HTTP POST /api/v1.0/user/6f16251e-3549-4531-b23d-8a95be109a9e/sensors/f032443b-6545-4dfb-be7f-da6291a788c9 responded 404 in 1.4974 ms
+2023-09-28 22:39:40.090 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:39:40.096 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:39:40.097 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:39:40.097 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:44:27.273 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:44:27.282 +02:00 [INF] HTTP POST /api/v1.0/user/sensors/212bc03e-f889-49a2-85db-10e4bc37e735 responded 404 in 1.1528 ms
+2023-09-28 22:44:27.291 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:44:27.301 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:44:27.301 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:44:27.301 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:46:07.305 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:46:07.307 +02:00 [INF] HTTP POST /api/v1.0/user/sensors/516b68ea-68bc-453f-b82f-8dc757a73181 responded 405 in 1.3095 ms
+2023-09-28 22:46:07.321 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:46:07.323 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:46:07.323 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:46:07.323 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:46:14.999 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:46:15.015 +02:00 [INF] HTTP POST /api/v1.0/user/sensors/78b48a5b-1cf3-4165-9cec-938634c01028 responded 405 in 1.6258 ms
+2023-09-28 22:46:15.019 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:46:15.027 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:46:15.027 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:46:15.027 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:49:42.255 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:49:42.275 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:49:42.283 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:49:42.283 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:49:42.283 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:49:49.122 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 6857.5932 ms
+2023-09-28 22:50:04.644 +02:00 [INF] HTTP POST /api/v1.0/sensors/4eca1f2a-f521-4d6d-b7e2-ed53192904ff/measurements responded 200 in 15492.7799 ms
+2023-09-28 22:50:23.040 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:50:23.059 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:50:23.061 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:50:23.061 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:50:23.061 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:50:24.836 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 1783.8727 ms
+2023-09-28 22:50:29.177 +02:00 [INF] HTTP POST /api/v1.0/sensors/65b6dd73-8366-4ca7-8124-0af4cde17c40/measurements responded 200 in 25.6691 ms
+2023-09-28 22:55:37.353 +02:00 [INF] Now listening on: http://localhost:5000
+2023-09-28 22:55:37.370 +02:00 [INF] Now listening on: https://localhost:5001
+2023-09-28 22:55:37.372 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-09-28 22:55:37.372 +02:00 [INF] Hosting environment: Production
+2023-09-28 22:55:37.372 +02:00 [INF] Content root path: C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Tests\bin\Debug\net6.0-windows\
+2023-09-28 22:55:37.541 +02:00 [INF] HTTP POST /api/v1.0/user/sensors responded 202 in 183.9644 ms
+2023-09-28 22:55:37.580 +02:00 [INF] HTTP POST /api/v1.0/sensors/c295c80b-fc2c-4857-9455-5ccb600da1c5/measurements responded 200 in 25.0707 ms

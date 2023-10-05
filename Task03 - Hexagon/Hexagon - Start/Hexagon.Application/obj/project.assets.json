@@ -1,45 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "Hexagon.Domain/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/Hexagon.Domain.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Hexagon.Domain.dll": {}
-        }
-      }
-    }
+    ".NETCoreApp,Version=v3.1": {}
   },
-  "libraries": {
-    "Hexagon.Domain/1.0.0": {
-      "type": "project",
-      "path": "../Hexagon.Domain/Hexagon.Domain.csproj",
-      "msbuildProject": "../Hexagon.Domain/Hexagon.Domain.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "Hexagon.Domain >= 1.0.0"
-    ]
+    ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\szymek\\.nuget\\packages\\": {}
+    "C:\\Users\\mr0zek\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Application\\Hexagon.Application.csproj",
+      "projectUniqueName": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\3. Hexagon - Start\\Hexagon.Application\\Hexagon.Application.csproj",
       "projectName": "Hexagon.Application",
-      "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Application\\Hexagon.Application.csproj",
-      "packagesPath": "C:\\Users\\szymek\\.nuget\\packages\\",
-      "outputPath": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Application\\obj\\",
+      "projectPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\3. Hexagon - Start\\Hexagon.Application\\Hexagon.Application.csproj",
+      "packagesPath": "C:\\Users\\mr0zek\\.nuget\\packages\\",
+      "outputPath": "c:\\MyCode\\Cwiczenia\\Ceneo-2022-01-19\\3. Hexagon - Start\\Hexagon.Application\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\szymek\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mr0zek\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -52,11 +37,7 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Domain\\Hexagon.Domain.csproj": {
-              "projectPath": "C:\\My\\Trainings\\CeneoMM\\Task03 - Hexagon\\Hexagon - Start\\Hexagon.Domain\\Hexagon.Domain.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -74,31 +55,16 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.10, 3.1.10]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          },
-          {
-            "name": "Microsoft.WindowsDesktop.App.Ref",
-            "version": "[3.1.0, 3.1.0]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SFC.Infrastructure.Interfaces/1.0.0": {
+        "dependencies": {
+          "SFC.SharedKernel": "1.0.0"
+        },
+        "runtime": {
+          "SFC.Infrastructure.Interfaces.dll": {}
+        }
+      },
+      "SFC.SharedKernel/1.0.0": {
+        "runtime": {
+          "SFC.SharedKernel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SFC.Infrastructure.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SFC.SharedKernel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

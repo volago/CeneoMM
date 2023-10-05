@@ -1,0 +1,84 @@
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\bin\Debug\net6.0\SFC.Sensors.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\bin\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\bin\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\obj\Debug\net6.0\refint\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - Api\src\SFC.Sensors\obj\Debug\net6.0\ref\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0\SFC.Sensors.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0\refint\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Sensors\obj\Debug\net6.0\ref\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\bin\Debug\net6.0\SFC.Sensors.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\bin\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\bin\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\obj\Debug\net6.0\refint\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Start\src\SFC.Sensors\obj\Debug\net6.0\ref\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\bin\Debug\net6.0\SFC.Sensors.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\bin\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\bin\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\obj\Debug\net6.0\refint\SFC.Sensors.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\obj\Debug\net6.0\SFC.Sensors.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task08 - CreateRestModule\SFC - CreateRestModule.Finish\src\SFC.Sensors\obj\Debug\net6.0\ref\SFC.Sensors.dll

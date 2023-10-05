@@ -4,7 +4,7 @@ W związku z rosnącym poziomem SMOGu w Polsce rozpoczynasz projekt który ma po
 Celem jest realizacja aplikacji która zbiera informacje o poziomu smogu i ostrzegania użytkowników o przekroczonych progach zanieczyszczenia.
 Głównymi aspektami jest:
 - monitorowanie poziomów zanieczyszczeń w powietrzu z ogólnopolskiej sieci czujników jak i pobieranie danych z baz publicznych 
-- informowanie o przekroczeniu dopuszczalnych poziomów po tym jak użytkownik zarejestruje czujkę monitorującą dany obszar.
+- informowanie o przekroczeniu dopuszczalnych poziomów po tym jak użytkownik zarejestruje alarm monitorującą dany obszar.
 
 # Funkcjonalności:
 

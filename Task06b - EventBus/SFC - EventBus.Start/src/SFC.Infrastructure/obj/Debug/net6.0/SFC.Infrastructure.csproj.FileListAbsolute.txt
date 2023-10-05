@@ -1,0 +1,57 @@
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.csproj.AssemblyReference.cache
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.AssemblyInfoInputs.cache
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.AssemblyInfo.cs
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.deps.json
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.pdb
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Notifications.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.SharedKernel.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Notifications.pdb
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.csproj.CopyComplete
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\obj\Debug\net6.0\refint\SFC.Infrastructure.dll
+c:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\SmogFightClub\src\SFC.Infrastructure\obj\Debug\net6.0\ref\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\refint\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - CommandHandler.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\ref\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.deps.json
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Notifications.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.SharedKernel.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Notifications.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.SharedKernel.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\bin\Debug\net6.0\SFC.Infrastructure.Interfaces.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.csproj.AssemblyReference.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.AssemblyInfoInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.AssemblyInfo.cs
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.csproj.CoreCompileInputs.cache
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.csproj.CopyComplete
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\refint\SFC.Infrastructure.dll
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\SFC.Infrastructure.pdb
+C:\My\Trainings\Cwiczenia-ModularMonolith\Task06 - Mediator\SFC - Mediator.Finish\src\SFC.Infrastructure\obj\Debug\net6.0\ref\SFC.Infrastructure.dll

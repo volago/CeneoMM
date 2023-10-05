@@ -45,10 +45,6 @@ namespace SFC.Processes.Features.UserRegistration
       _commandBus.Send(new CreateAccountCommand() { LoginName = account.LoginName, PasswordHash = account.PasswordHash });
 
       _commandBus.Send(new CreateAlertCommand() { Id = Guid.NewGuid(), ZipCode = account.ZipCode });
-      if (account.NOtyfy)
-      {
-        _commandBus.Send(new SetNotificationEmailCommand(account.Email, account.LoginName));
-      }
     }
   }
 }
